@@ -1,0 +1,50 @@
+{
+  "codigo": {
+    "label": "Código de Minería — Ley 1.919",
+    "url": "https://www.argentina.gob.ar/normativa/nacional/ley-1919-43797/actualizacion"
+  },
+  "cn": {
+    "label": "Constitución Nacional",
+    "url": "https://www.argentina.gob.ar/normativa/nacional/ley-24430-804/texto"
+  },
+  "ley24585": {
+    "label": "Ley 24.585 — Protección ambiental minera",
+    "url": "https://www.argentina.gob.ar/normativa/nacional/ley-24585-30096"
+  },
+  "lga": {
+    "label": "Ley 25.675 — Ley General del Ambiente",
+    "url": "https://www.argentina.gob.ar/normativa/nacional/ley-25675-79980/actualizacion"
+  },
+  "inversiones": {
+    "label": "Ley 24.196 — Inversiones mineras",
+    "url": "https://www.argentina.gob.ar/normativa/nacional/ley-24196-594/actualizacion"
+  },
+  "sjprocedimiento": {
+    "label": "Procedimiento minero San Juan",
+    "url": "https://mineria.sanjuan.gob.ar/?uid=CUMV-VIEW-NormasLegalesComponent"
+  },
+  "sjambiental": {
+    "label": "Dto. San Juan 1426/1996",
+    "url": "https://www.digestosanjuan.gob.ar/Decretos/5845/DP-1426-1996%20M.PDF"
+  },
+  "segemar": {
+    "label": "SEGEMAR",
+    "url": "https://repositorio.segemar.gov.ar/"
+  },
+  "crirsco": {
+    "label": "CRIRSCO — definiciones",
+    "url": "https://crirsco.com/wp-content/uploads/2024/04/standard_definitions_international_reporting_template_APR2014.pdf"
+  },
+  "normasSj": {
+    "label": "Normas Legales — Ministerio de Minería SJ",
+    "url": "https://mineria.sanjuan.gob.ar/?uid=CUMV-VIEW-NormasLegalesComponent"
+  },
+  "mapaminero": {
+    "label": "Mapa de proyectos metalíferos SJ",
+    "url": "https://proyectosmetaliferos.sanjuan.gob.ar/mapaminero/"
+  },
+  "visualizador": {
+    "label": "Visualizador catastro SJ",
+    "url": "https://proyectosmetaliferos.sanjuan.gob.ar/visualizador/index.html"
+  }
+}

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "q1",
+    "prompt": "¿Qué distingue al cateo de la concesión?",
+    "options": [
+      "El cateo explota; la concesión solo explora",
+      "El cateo autoriza exploración exclusiva; la concesión permite explotar",
+      "Son sinónimos en el Código de Minería",
+      "El cateo es solo un impuesto"
+    ],
+    "correct": 1,
+    "explain": "El cateo es permiso de exploración; la concesión es el derecho de explotación."
+  },
+  {
+    "id": "q2",
+    "prompt": "Canon y regalía, ¿son lo mismo?",
+    "options": [
+      "Sí, ambos gravan solo la producción",
+      "No: el canon integra el amparo; la regalía se vincula a la producción",
+      "Sí, ambos los cobra solo Nación",
+      "No: la regalía es un tipo de mensura"
+    ],
+    "correct": 1,
+    "explain": "Canon ≠ regalía ≠ impuesto: cada uno tiene hecho y función distintas."
+  },
+  {
+    "id": "q3",
+    "prompt": "¿Qué es el IIA frente a la DIA?",
+    "options": [
+      "IIA lo dicta la autoridad; DIA lo presenta la empresa",
+      "IIA es el estudio del proponente; DIA es el acto de la autoridad",
+      "Son el mismo documento con otro nombre",
+      "DIA solo aplica a canteras"
+    ],
+    "correct": 1,
+    "explain": "IIA = informe; DIA = decisión administrativa sobre ese informe."
+  },
+  {
+    "id": "q4",
+    "prompt": "Un recurso mineral ¿ya es una reserva?",
+    "options": [
+      "Sí, siempre",
+      "No: la reserva exige factores modificadores y viabilidad económica",
+      "Sí, si hay un cateo",
+      "Solo si está en un mapa oficial"
+    ],
+    "correct": 1,
+    "explain": "Recurso y reserva son niveles distintos de evaluación (CRIRSCO)."
+  },
+  {
+    "id": "q5",
+    "prompt": "El catastro digital de San Juan, ¿otorga derechos?",
+    "options": [
+      "Sí, automáticamente",
+      "No: es referencial; el estado legal está en el expediente",
+      "Solo si el polígono es verde",
+      "Sí, si coincide con un proyecto metalífero"
+    ],
+    "correct": 1,
+    "explain": "Mapa y visualizador ayudan a investigar; no reemplazan el expediente."
+  },
+  {
+    "id": "q6",
+    "prompt": "¿Quién tiene el dominio originario de los recursos minerales?",
+    "options": [
+      "Solo el concesionario privado",
+      "Las provincias (art. 124 CN)",
+      "Solo el municipio",
+      "La OEA"
+    ],
+    "correct": 1,
+    "explain": "Tras 1994, el dominio originario es provincial."
+  },
+  {
+    "id": "q7",
+    "prompt": "En un pórfido de cobre, ¿qué suele pasar?",
+    "options": [
+      "Alta ley en una veta milimétrica únicamente",
+      "Baja ley en gran tonelaje, mineralización diseminada",
+      "Solo oro nativo en superficie",
+      "No hay exploración posible"
+    ],
+    "correct": 1,
+    "explain": "Modelo típico andino: gran volumen, ley moderada/baja."
+  },
+  {
+    "id": "q8",
+    "prompt": "Titular y operador, ¿son siempre la misma persona?",
+    "options": [
+      "Sí, por definición legal",
+      "No necesariamente: el titular tiene el derecho; el operador ejecuta",
+      "El operador siempre es el IPEEM",
+      "El titular solo puede ser una persona física"
+    ],
+    "correct": 1,
+    "explain": "Pueden coincidir o no; conviene leer el expediente y contratos."
+  }
+]

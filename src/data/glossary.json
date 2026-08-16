@@ -1,0 +1,2727 @@
+[
+  {
+    "id": "abandono",
+    "term": "Abandono",
+    "category": "Jurídico",
+    "plain": "Acto por el cual el titular deja voluntariamente una mina o un derecho minero, cumpliendo las formalidades exigidas. No debe confundirse con la caducidad, que es una consecuencia jurídica declarada por incumplimiento.",
+    "detail": "Categoría de origen: Jurídico. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "caducidad"
+    ]
+  },
+  {
+    "id": "abertura-minera",
+    "term": "Abertura minera",
+    "category": "Operativo",
+    "plain": "Excavación que permite acceder, ventilar, transportar o trabajar dentro de una explotación. Incluye pozos, galerías, rampas, chimeneas y socavones.",
+    "detail": "Categoría de origen: Operativo. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "explotacion"
+    ]
+  },
+  {
+    "id": "acopio",
+    "term": "Acopio",
+    "category": "Operativo",
+    "plain": "Acumulación ordenada y temporal de mineral, roca, suelo u otro material. Un acopio puede servir para homogeneizar alimentación de planta, conservar suelo vegetal o administrar material de distinta ley.",
+    "detail": "Categoría de origen: Operativo. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "mineral"
+    ]
+  },
+  {
+    "id": "actividad-minera",
+    "term": "Actividad minera",
+    "category": "Jurídico",
+    "plain": "Conjunto de acciones de prospección, exploración, desarrollo, preparación, extracción, tratamiento y cierre vinculadas al aprovechamiento de sustancias minerales. La normativa ambiental argentina también comprende tareas auxiliares y procesos asociados.",
+    "detail": "Categoría de origen: Jurídico-operativo. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "exploracion",
+      "prospeccion"
+    ]
+  },
+  {
+    "id": "acuerdo-federal-minero",
+    "term": "Acuerdo Federal Minero",
+    "category": "Jurídico",
+    "plain": "Compromiso entre Nación y provincias para ordenar políticas mineras comunes (incentivos, ambiente, información), respetando el dominio provincial del recurso.",
+    "detail": "Complementa el Código de Minería y las leyes de inversiones. No reemplaza la autoridad minera provincial ni el Código.",
+    "related": [
+      "codigo-de-mineria",
+      "dominio-originario",
+      "autoridad-minera"
+    ]
+  },
+  {
+    "id": "afloramiento",
+    "term": "Afloramiento",
+    "category": "Geológico",
+    "plain": "Parte de una formación, veta, manto o cuerpo mineralizado que aparece expuesta en la superficie. También se denomina corrida en parte de la terminología minera tradicional.",
+    "detail": "l.",
+    "related": [
+      "corrida",
+      "cuerpo-mineralizado",
+      "manto",
+      "veta"
+    ]
+  },
+  {
+    "id": "agua-de-contacto",
+    "term": "Agua de contacto",
+    "category": "Ambiental",
+    "plain": "Agua que ha entrado en contacto con mineral, roca estéril, instalaciones o áreas operativas y cuya calidad debe ser caracterizada antes de su manejo, reutilización o descarga.",
+    "detail": "Categoría de origen: Ambiental. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "esteril",
+      "mineral",
+      "roca-esteril"
+    ]
+  },
+  {
+    "id": "alteracion-hidrotermal",
+    "term": "Alteración hidrotermal",
+    "category": "Geológico",
+    "plain": "Cambio mineralógico, químico o textural de una roca causado por fluidos calientes. Sus patrones pueden orientar la exploración hacia sistemas mineralizados.",
+    "detail": "Categoría de origen: Geológico. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "exploracion"
+    ]
+  },
+  {
+    "id": "amalgamacion",
+    "term": "Amalgamación",
+    "category": "Metalúrgico",
+    "plain": "Proceso que utiliza mercurio para formar una amalgama con ciertos metales, especialmente oro. Presenta riesgos severos para la salud y el ambiente y se encuentra sujeto a restricciones regulatorias.",
+    "detail": "Categoría de origen: Metalúrgico. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "amparo-minero",
+    "term": "Amparo minero",
+    "category": "Jurídico",
+    "plain": "Sistema de condiciones que el concesionario debe cumplir para conservar la concesión. En Argentina se vincula principalmente con el pago del canon, la inversión exigida y la efectiva activación o reactivación de la mina.",
+    "detail": "Categoría de origen: Jurídico. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "ampliacion-de-pertenencia",
+    "term": "Ampliación de pertenencia",
+    "category": "Jurídico",
+    "plain": "Extensión de una pertenencia minera cuando se reúnen las condiciones previstas por el Código de Minería, especialmente en relación con la dirección o continuidad del criadero.",
+    "detail": "Categoría de origen: Jurídico. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "codigo-de-mineria",
+      "criadero",
+      "pertenencia"
+    ]
+  },
+  {
+    "id": "anfo",
+    "term": "ANFO",
+    "category": "Operativo",
+    "plain": "Explosivo de uso minero a base de nitrato de amonio y combustible; barato y común en voladuras de cielo abierto.",
+    "detail": "Requiere iniciación adecuada y control de humedad. Forma parte del factor de carga y de la fragmentación.",
+    "related": [
+      "voladura",
+      "factor-de-carga",
+      "emulsion"
+    ]
+  },
+  {
+    "id": "area-de-reserva",
+    "term": "Área de reserva",
+    "category": "Jurídico",
+    "plain": "Superficie reservada por el Estado para investigación geológico-minera o para actuación de organismos públicos, bajo las condiciones y plazos establecidos por la normativa aplicable.",
+    "detail": "Categoría de origen: Jurídico. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "area-natural-protegida",
+    "term": "Área natural protegida",
+    "category": "Ambiental",
+    "plain": "Espacio sometido a un régimen especial de conservación. La existencia de un derecho minero no elimina las restricciones ambientales ni garantiza por sí sola la autorización de trabajos.",
+    "detail": "Categoría de origen: Ambiental. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "audiencia-publica",
+    "term": "Audiencia pública",
+    "category": "Ambiental",
+    "plain": "Instancia formal donde la autoridad y el proyecto reciben opiniones de vecinos, organismos y público sobre un Informe de Impacto Ambiental u otra decisión.",
+    "detail": "En minería suele vincularse a la evaluación ambiental provincial. Las observaciones deben constar y ser consideradas, aunque no siempre vinculan el resultado.",
+    "related": [
+      "iia",
+      "dia",
+      "consulta-previa"
+    ]
+  },
+  {
+    "id": "autoridad-minera",
+    "term": "Autoridad minera",
+    "category": "Jurídico",
+    "plain": "Organismo provincial competente para tramitar, registrar, conceder, fiscalizar o resolver asuntos mineros. Las provincias ejercen el dominio originario de los recursos naturales existentes en su territorio.",
+    "detail": "Categoría de origen: Jurídico. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "dominio-originario"
+    ]
+  },
+  {
+    "id": "avio",
+    "term": "Avío",
+    "category": "Jurídico",
+    "plain": "Contrato minero por el cual una parte aporta dinero, insumos o medios para trabajar una mina y recibe la contraprestación convenida, que puede vincularse con minerales, productos o utilidades.",
+    "detail": "Categoría de origen: Jurídico-económico. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "contrato-minero"
+    ]
+  },
+  {
+    "id": "banco",
+    "term": "Banco",
+    "category": "Operativo",
+    "plain": "Escalón horizontal o subhorizontal formado en una mina a cielo abierto. Su altura, ancho y ángulo se diseñan de acuerdo con la geotecnia, los equipos y la seguridad.",
+    "detail": "Categoría de origen: Operativo. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "mina-a-cielo-abierto"
+    ]
+  },
+  {
+    "id": "dore",
+    "term": "Barra doré",
+    "category": "Metalúrgico",
+    "plain": "Lingote impure de oro-plata producido en planta antes del refino fino; producto típico de operaciones auríferas.",
+    "detail": "Se ensaya y se vende a refinerías. No es oro 999.9: contiene otros metales.",
+    "related": [
+      "cianuro",
+      "lixiviacion",
+      "lingote"
+    ]
+  },
+  {
+    "id": "barrenacion",
+    "term": "Barrenación",
+    "category": "Operativo",
+    "plain": "Ejecución de perforaciones para exploración, control de leyes, instalación, sostenimiento o voladura.",
+    "detail": "Categoría de origen: Operativo. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "exploracion",
+      "sostenimiento",
+      "voladura"
+    ]
+  },
+  {
+    "id": "beneficio-de-minerales",
+    "term": "Beneficio de minerales",
+    "category": "Metalúrgico",
+    "plain": "Operaciones destinadas a separar, concentrar o mejorar el componente útil del material extraído. Puede incluir trituración, molienda, clasificación, flotación, lixiviación y separación gravimétrica o magnética.",
+    "detail": "Categoría de origen: Metalúrgico. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "flotacion",
+      "lixiviacion",
+      "trituracion"
+    ]
+  },
+  {
+    "id": "bocamina",
+    "term": "Bocamina",
+    "category": "Operativo",
+    "plain": "Entrada superficial de una labor minera subterránea, generalmente horizontal o inclinada.",
+    "detail": "Categoría de origen: Operativo. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "botadero",
+    "term": "Botadero",
+    "category": "Ambiental",
+    "plain": "Instalación diseñada para disponer roca estéril u otros materiales sólidos. Su estabilidad física, drenaje y posible generación de contaminantes deben gestionarse durante toda su vida útil.",
+    "detail": "Categoría de origen: Operativo-ambiental. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "estabilidad-fisica",
+      "esteril",
+      "roca-esteril"
+    ]
+  },
+  {
+    "id": "brecha",
+    "term": "Brecha",
+    "category": "Geológico",
+    "plain": "Roca compuesta por fragmentos angulosos cementados por una matriz. Puede tener origen tectónico, volcánico, hidrotermal o sedimentario y, en algunos depósitos, alojar mineralización.",
+    "detail": "Categoría de origen: Geológico. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "mineralizacion"
+    ]
+  },
+  {
+    "id": "buzamiento",
+    "term": "Buzamiento",
+    "category": "Geológico",
+    "plain": "Ángulo y dirección de máxima inclinación de un plano geológico respecto de la horizontal. En textos tradicionales también aparece como inclinación, echado o recuesto.",
+    "detail": "esto*.",
+    "related": [
+      "echado"
+    ]
+  },
+  {
+    "id": "cadena-de-custodia",
+    "term": "Cadena de custodia",
+    "category": "Exploración",
+    "plain": "Registro que documenta quién tuvo cada muestra desde la toma hasta el laboratorio, para asegurar integridad y trazabilidad.",
+    "detail": "Parte del QA/QC. Evita mezclas, pérdidas y cuestionamientos en auditorías o reportes públicos.",
+    "related": [
+      "qa-qc",
+      "sondaje-diamantina",
+      "muestreo"
+    ]
+  },
+  {
+    "id": "caducidad",
+    "term": "Caducidad",
+    "category": "Jurídico",
+    "plain": "Pérdida de un derecho minero declarada por la autoridad ante un incumplimiento previsto legalmente. Sus causas y procedimiento dependen del derecho involucrado.",
+    "detail": "Categoría de origen: Jurídico. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "calicata",
+    "term": "Calicata",
+    "category": "Exploración",
+    "plain": "Excavación superficial, normalmente alargada y poco profunda, realizada para observar materiales, estructuras, suelos o mineralización y tomar muestras.",
+    "detail": "Categoría de origen: Exploración. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "exploracion",
+      "mineralizacion"
+    ]
+  },
+  {
+    "id": "campamento-minero",
+    "term": "Campamento minero",
+    "category": "Operativo",
+    "plain": "Conjunto de instalaciones de alojamiento, alimentación, salud, administración y servicios para personal en un proyecto o mina, frecuente en zonas cordilleranas alejadas.",
+    "detail": "Categoría de origen: Operativo. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "canon-minero",
+    "term": "Canon minero",
+    "category": "Jurídico",
+    "plain": "Prestación periódica establecida por ley cuyo pago integra el sistema de amparo de la concesión. No es sinónimo de regalía ni de impuesto.",
+    "detail": "Categoría de origen: Jurídico-económico. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "cantera",
+    "term": "Cantera",
+    "category": "Jurídico",
+    "plain": "Explotación de sustancias de tercera categoría, como ciertas rocas de aplicación y materiales pétreos. Su régimen se relaciona estrechamente con el dominio del suelo; en terrenos fiscales interviene la autoridad provincial.",
+    "detail": "Categoría de origen: Jurídico-operativo. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "explotacion"
+    ]
+  },
+  {
+    "id": "capa-vegetal",
+    "term": "Capa vegetal (topsoil)",
+    "category": "Ambiental",
+    "plain": "Horizonte superior del suelo rico en materia orgánica que se retira y guarda antes de minar para reusar en la revegetación.",
+    "detail": "Perderlo complica el cierre. Se acopia por separado del estéril.",
+    "related": [
+      "revegetacion",
+      "plan-de-cierre",
+      "botadero"
+    ]
+  },
+  {
+    "id": "caseron",
+    "term": "Caserón (stope)",
+    "category": "Operativo",
+    "plain": "Cavidad subterránea donde se extrae el mineral; unidad básica de producción en muchos métodos de laboreo.",
+    "detail": "El diseño del caserón depende de la geometría del cuerpo, la calidad de roca y el relleno posterior.",
+    "related": [
+      "mineria-subterranea",
+      "relleno",
+      "galeria"
+    ]
+  },
+  {
+    "id": "catastro-minero",
+    "term": "Catastro minero",
+    "category": "Jurídico",
+    "plain": "Sistema oficial que identifica y representa espacialmente pedimentos, permisos, minas, pertenencias, áreas reservadas y otras afectaciones. Es central para determinar ubicación, prioridad y posibles superposiciones.",
+    "detail": "Categoría de origen: Jurídico-técnico. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "cateo",
+    "term": "Cateo",
+    "category": "Jurídico",
+    "plain": "Modalidad de permiso exclusivo de exploración sobre un área y por un plazo determinados. Su otorgamiento no equivale a una concesión de explotación.",
+    "detail": "Categoría de origen: Jurídico. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "exploracion",
+      "explotacion"
+    ]
+  },
+  {
+    "id": "catodo",
+    "term": "Cátodo",
+    "category": "Metalúrgico",
+    "plain": "Lámina metálica de alta pureza obtenida por procesos electrolíticos. En cobre, suele ser el producto final de circuitos de lixiviación, extracción por solventes y electroobtención.",
+    "detail": "Categoría de origen: Metalúrgico-comercial. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "lixiviacion"
+    ]
+  },
+  {
+    "id": "catodo-de-cobre",
+    "term": "Cátodo de cobre",
+    "category": "Metalúrgico",
+    "plain": "Plancha de cobre de alta pureza obtenida por electro-obtención o electro-refinación; producto comercial estándar LME.",
+    "detail": "En proyectos SX-EW se produce cátodo a partir de soluciones de lixiviación. Calidad “Grade A” es la referencia de mercado.",
+    "related": [
+      "lixiviacion",
+      "concentrado",
+      "offtake"
+    ]
+  },
+  {
+    "id": "certificado-de-calidad-ambiental",
+    "term": "Certificado de calidad ambiental",
+    "category": "Ambiental",
+    "plain": "Constancia prevista en reglamentaciones minero-ambientales que acredita el cumplimiento de condiciones ligadas a la declaración de impacto ambiental durante su vigencia. En San Juan aparece regulado por normativa provincial específica.",
+    "detail": "Categoría de origen: Ambiental. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "impacto-ambiental"
+    ]
+  },
+  {
+    "id": "chancado",
+    "term": "Chancado (trituración)",
+    "category": "Operativo",
+    "plain": "Primera reducción mecánica del mineral extraído (ROM) a fragmentos manejables para molienda o apilado en pilas.",
+    "detail": "Incluye chancadoras primarias, secundarias y terciarias. En español minero “chancar” es de uso corriente en Chile y Argentina.",
+    "related": [
+      "molienda",
+      "rom",
+      "ley-de-cabeza"
+    ]
+  },
+  {
+    "id": "chimenea",
+    "term": "Chimenea",
+    "category": "Operativo",
+    "plain": "Labor vertical o subvertical usada para ventilación, paso de mineral o acceso entre niveles.",
+    "detail": "Se distingue del pique principal por función y sección. Seguridad: riesgos de caída y de gases.",
+    "related": [
+      "pique",
+      "galeria",
+      "mineria-subterranea"
+    ]
+  },
+  {
+    "id": "cianuracion",
+    "term": "Cianuración",
+    "category": "Metalúrgico",
+    "plain": "Proceso hidrometalúrgico que utiliza soluciones de cianuro para disolver oro o plata. Requiere diseño, controles, contingencias y gestión ambiental rigurosos.",
+    "detail": "Categoría de origen: Metalúrgico. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "cianuro",
+    "term": "Cianuro",
+    "category": "Metalúrgico",
+    "plain": "Reactivo usado en lixiviación de oro y plata. Es tóxico: su manejo exige controles estrictos de proceso, transporte, destruccción y efluentes.",
+    "detail": "Se habla de cianuro libre, WAD y total. Plantas modernas incluyen circuitos de detoxificación (destrucción) antes de disponer soluciones.",
+    "related": [
+      "lixiviacion",
+      "lixiviacion-en-pilas",
+      "detoxificacion-de-cianuro"
+    ]
+  },
+  {
+    "id": "cierre-de-mina",
+    "term": "Cierre de mina",
+    "category": "Ambiental",
+    "plain": "Proceso planificado de desmantelamiento, estabilización, rehabilitación, monitoreo y gestión social al finalizar total o parcialmente una operación. Debe considerarse desde etapas tempranas, no cuando “se apaga la luz”.",
+    "detail": "Categoría de origen: Operativo-ambiental. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "rehabilitacion"
+    ]
+  },
+  {
+    "id": "cobre-equivalente-cueq",
+    "term": "Cobre equivalente (CuEq)",
+    "category": "Económico",
+    "plain": "Conversión de distintos metales contenidos en una mineralización a una ley teórica de cobre, mediante supuestos de precios, recuperaciones y pagabilidades. La fórmula y sus supuestos deben informarse; no es cobre físico adicional.",
+    "detail": "Categoría de origen: Económico. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "mineralizacion"
+    ]
+  },
+  {
+    "id": "codigo-de-mineria",
+    "term": "Código de Minería",
+    "category": "Jurídico",
+    "plain": "Código nacional que regula los derechos, obligaciones e instituciones fundamentales de la minería en Argentina. Reconoce el dominio originario estatal, la concesión legal y la separación entre propiedad minera y propiedad superficial.",
+    "detail": "Categoría de origen: Jurídico. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "dominio-originario"
+    ]
+  },
+  {
+    "id": "jorc",
+    "term": "Código JORC",
+    "category": "Comercial",
+    "plain": "Estándar australiano (CRIRSCO) para reportar recursos y reservas minerales de forma comparable y auditada.",
+    "detail": "Junto a NI 43-101 y otros códigos hermanos, ordena el lenguaje “inferido / indicado / medido” y “probable / probada”.",
+    "related": [
+      "ni-43-101",
+      "recurso-mineral",
+      "reserva-mineral"
+    ]
+  },
+  {
+    "id": "colas-o-relaves",
+    "term": "Colas o relaves",
+    "category": "Ambiental",
+    "plain": "Material remanente luego de separar la fracción valiosa del mineral en una planta de tratamiento. Puede contener sólidos finos, agua de proceso y reactivos; requiere gestión y disposición controladas.",
+    "detail": "Categoría de origen: Metalúrgico-ambiental. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "mineral"
+    ]
+  },
+  {
+    "id": "comunidades",
+    "term": "Comunidades",
+    "category": "Social",
+    "plain": "Poblaciones locales (urbanas, rurales o indígenas) en el área de influencia del proyecto, con derechos a información y participación.",
+    "detail": "La relación con comunidades es eje de licencia social, fondos provinciales y evaluación de impactos sociales.",
+    "related": [
+      "licencia-social",
+      "consulta-previa"
+    ]
+  },
+  {
+    "id": "concentracion-gravimetrica",
+    "term": "Concentración gravimétrica",
+    "category": "Metalúrgico",
+    "plain": "Separación de partículas basada en diferencias de densidad mediante gravedad o fuerza centrífuga.",
+    "detail": "Categoría de origen: Metalúrgico. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "concentrado",
+    "term": "Concentrado",
+    "category": "Metalúrgico",
+    "plain": "Producto enriquecido en uno o más minerales valiosos luego del beneficio. Aún puede contener humedad, impurezas y minerales sin valor, por lo que normalmente requiere fundición u otro tratamiento posterior.",
+    "detail": "Categoría de origen: Metalúrgico-comercial. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "fundicion"
+    ]
+  },
+  {
+    "id": "concesion-minera",
+    "term": "Concesión minera",
+    "category": "Jurídico",
+    "plain": "Derecho exclusivo otorgado conforme al Código para explotar una mina. La propiedad particular minera se establece mediante concesión legal y es distinta de la propiedad del terreno superficial.",
+    "detail": "Categoría de origen: Jurídico. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "consulta-previa",
+    "term": "Consulta previa",
+    "category": "Social",
+    "plain": "Proceso de información y diálogo con comunidades —en especial pueblos indígenas— antes de autorizar proyectos que puedan afectar sus derechos o territorios.",
+    "detail": "Se asocia al Convenio 169 de la OIT y a estándares de participación. No es un trámite genérico de “audiencia”: tiene requisitos propios de buena fe y oportunidad.",
+    "related": [
+      "audiencia-publica",
+      "licencia-social",
+      "comunidades"
+    ]
+  },
+  {
+    "id": "contenido-metalico",
+    "term": "Contenido metálico",
+    "category": "Económico",
+    "plain": "Cantidad teórica de metal presente, calculada a partir del tonelaje y la ley. No equivale al metal recuperado ni al producto vendible.",
+    "detail": "Categoría de origen: Económico-técnico. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "tonelaje"
+    ]
+  },
+  {
+    "id": "contrato-minero",
+    "term": "Contrato minero",
+    "category": "Jurídico",
+    "plain": "Acuerdo relativo a derechos, bienes u operaciones mineras. El Código contempla figuras y reglas especiales, entre ellas avío, compañías de minas, arrendamiento, usufructo e hipoteca.",
+    "detail": "Categoría de origen: Jurídico. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "avio"
+    ]
+  },
+  {
+    "id": "corrida",
+    "term": "Corrida",
+    "category": "Geológico",
+    "plain": "Extensión observable o proyectada de un cuerpo mineralizado, veta o estrato en una dirección. En el programa de cátedra también aparece relacionada con afloramiento.",
+    "detail": "*.",
+    "related": [
+      "afloramiento",
+      "cuerpo-mineralizado",
+      "veta"
+    ]
+  },
+  {
+    "id": "criadero",
+    "term": "Criadero",
+    "category": "Jurídico",
+    "plain": "Depósito natural de sustancias minerales. Es un término tradicional del derecho minero argentino y no implica automáticamente que exista una reserva económicamente explotable.",
+    "detail": "Categoría de origen: Geológico-jurídico. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "cueq",
+    "term": "CuEq",
+    "category": "Siglas",
+    "plain": "CuEq: Cobre equivalente.",
+    "detail": "Sigla frecuente del sector minero. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "cuerpo-mineralizado",
+    "term": "Cuerpo mineralizado",
+    "category": "Geológico",
+    "plain": "Volumen de roca que contiene mineralización identificable. Su forma puede ser tabular, vetiforme, masiva, diseminada, lenticular o irregular.",
+    "detail": "Categoría de origen: Geológico. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "mineralizacion"
+    ]
+  },
+  {
+    "id": "dano-ambiental",
+    "term": "Daño ambiental",
+    "category": "Jurídico",
+    "plain": "Alteración relevante que modifica negativamente el ambiente, sus recursos, el equilibrio de los ecosistemas o bienes colectivos. La legislación general prioriza la recomposición del ambiente dañado.",
+    "detail": "Categoría de origen: Ambiental-jurídico. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "dar",
+    "term": "DAR",
+    "category": "Siglas",
+    "plain": "DAR: Drenaje ácido de roca.",
+    "detail": "Sigla frecuente del sector minero. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "declaracion-de-impacto-ambiental-dia",
+    "term": "Declaración de impacto ambiental (DIA)",
+    "category": "Jurídico",
+    "plain": "Acto de la autoridad que aprueba, condiciona o rechaza el Informe de Impacto Ambiental. En minería, debe obtenerse antes de iniciar las actividades alcanzadas y actualizarse conforme al régimen aplicable.",
+    "detail": "Categoría de origen: Ambiental-jurídico. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "impacto-ambiental"
+    ]
+  },
+  {
+    "id": "demasia",
+    "term": "Demasía",
+    "category": "Jurídico",
+    "plain": "Espacio de terreno mineralizado que queda entre pertenencias ya constituidas y cuya forma o extensión impide constituir una pertenencia ordinaria. Su adjudicación sigue reglas especiales.",
+    "detail": "Categoría de origen: Jurídico. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "pertenencia"
+    ]
+  },
+  {
+    "id": "demasias",
+    "term": "Demasías",
+    "category": "Jurídico",
+    "plain": "Franja o superficie sobrante entre pertenencias o límites mineros que puede pedirse en mensura según reglas del Código.",
+    "detail": "Tema típico de catastro y mensura. Evita “huecos” y conflictos de linderos entre concesiones.",
+    "related": [
+      "pertenencia",
+      "catastro-minero"
+    ]
+  },
+  {
+    "id": "denuncio",
+    "term": "Denuncio",
+    "category": "Jurídico",
+    "plain": "Acto formal ante la autoridad minera para iniciar o proteger un derecho (descubrimiento, pedimento, etc.), dejando constancia en expediente.",
+    "detail": "El lenguaje del Código usa “denuncio” en varios trámites. No es una denuncia penal: es un acto administrativo minero.",
+    "related": [
+      "descubrimiento",
+      "cateo"
+    ]
+  },
+  {
+    "id": "desbroce",
+    "term": "Desbroce",
+    "category": "Ambiental",
+    "plain": "Retiro de vegetación y capa superficial para habilitar obras. Debe limitarse al área necesaria y coordinarse con rescate de flora, manejo de suelo y rehabilitación.",
+    "detail": "Categoría de origen: Operativo-ambiental. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "rehabilitacion"
+    ]
+  },
+  {
+    "id": "descubridor",
+    "term": "Descubridor",
+    "category": "Jurídico",
+    "plain": "Persona que manifiesta ante la autoridad un descubrimiento minero en las condiciones legales. La prioridad depende del cumplimiento del procedimiento, no solamente de haber observado primero una roca mineralizada.",
+    "detail": "Categoría de origen: Jurídico. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "descubrimiento"
+    ]
+  },
+  {
+    "id": "descubrimiento",
+    "term": "Descubrimiento",
+    "category": "Jurídico",
+    "plain": "Hallazgo de un criadero no registrado que puede dar origen al procedimiento de manifestación, registro, labor legal y mensura. Tiene un significado formal distinto del anuncio empresarial de un “descubrimiento”.",
+    "detail": "Categoría de origen: Jurídico. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "criadero",
+      "labor-legal"
+    ]
+  },
+  {
+    "id": "desmonte",
+    "term": "Desmonte",
+    "category": "Jurídico",
+    "plain": "En el lenguaje tradicional del Código, acumulación de material extraído o descartado de labores mineras que puede contener sustancias aprovechables. En obra minera también puede aludir a remoción de terreno.",
+    "detail": "Categoría de origen: Jurídico-operativo. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "detoxificacion-de-cianuro",
+    "term": "Detoxificación de cianuro",
+    "category": "Metalúrgico",
+    "plain": "Proceso químico que destruye o reduce el cianuro residual en soluciones de proceso hasta niveles permitidos para vuelco o recirculación.",
+    "detail": "Métodos comunes incluyen SO₂/aire (INCO) y otros oxidantes. Forma parte del control ambiental de plantas de oro.",
+    "related": [
+      "cianuro",
+      "efluente",
+      "monitoreo-ambiental"
+    ]
+  },
+  {
+    "id": "dia",
+    "term": "DIA",
+    "category": "Siglas",
+    "plain": "DIA: Declaración de Impacto Ambiental.",
+    "detail": "Sigla frecuente del sector minero. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "impacto-ambiental"
+    ]
+  },
+  {
+    "id": "dilucion",
+    "term": "Dilución",
+    "category": "Económico",
+    "plain": "Incorporación de material estéril o de menor ley al mineral durante la extracción. Reduce la ley enviada a planta y puede afectar recuperación, costos e ingresos.",
+    "detail": "Categoría de origen: Operativo-económico. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "esteril",
+      "mineral"
+    ]
+  },
+  {
+    "id": "dique-de-colas",
+    "term": "Dique de colas (relaves)",
+    "category": "Operativo",
+    "plain": "Obra que contiene los residuos finos (colas/relaves) de la planta. Debe ser estable, impermeabilizado según diseño y monitoreado de por vida útil y cierre.",
+    "detail": "También llamado “tailings dam”. Fallas de diques son eventos de alto impacto; por eso hay estándares estrictos de diseño y gobernanza.",
+    "related": [
+      "colas-o-relaves",
+      "geomembrana",
+      "plan-de-cierre",
+      "piezometro"
+    ]
+  },
+  {
+    "id": "diseminado",
+    "term": "Diseminado",
+    "category": "Geológico",
+    "plain": "Tipo de mineralización en la cual los minerales útiles se distribuyen como partículas o pequeños agregados dentro de un gran volumen de roca, en lugar de concentrarse en una veta compacta.",
+    "detail": "Categoría de origen: Geológico. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "mineralizacion",
+      "veta"
+    ]
+  },
+  {
+    "id": "dominio-originario",
+    "term": "Dominio originario",
+    "category": "Jurídico",
+    "plain": "Titularidad que corresponde a las provincias sobre los recursos naturales existentes en sus territorios, reconocida por el artículo 124 de la Constitución Nacional.",
+    "detail": "Categoría de origen: Jurídico-constitucional. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "drenaje-acido-de-roca",
+    "term": "Drenaje ácido de roca (DAR / ARD)",
+    "category": "Ambiental",
+    "plain": "Agua ácida que se genera cuando minerales sulfurados se oxidan al contacto con aire y agua, pudiendo movilizar metales al ambiente.",
+    "detail": "También llamado ARD (Acid Rock Drainage). Se controla con caracterización geoquímica, aislamiento de materiales, coberturas y tratamiento de aguas.",
+    "related": [
+      "sulfuros",
+      "botadero",
+      "monitoreo-ambiental",
+      "neutralizacion"
+    ]
+  },
+  {
+    "id": "drenaje-acido-de-roca-dar",
+    "term": "Drenaje ácido de roca (DAR)",
+    "category": "Ambiental",
+    "plain": "Agua ácida que puede generarse cuando minerales sulfurados reaccionan con oxígeno y agua. Su aparición depende de la mineralogía y de las condiciones del sitio; puede movilizar metales y requiere prevención y control.",
+    "detail": "Categoría de origen: Ambiental-geoquímico. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "earn-in",
+    "term": "Earn-in",
+    "category": "Comercial",
+    "plain": "Mecanismo por el cual un socio gana un porcentaje del proyecto a medida que invierte (perfora, estudia, financia etapas).",
+    "detail": "Típico en JV de exploración. El calendario de gastos y la dilución del socio original se pactan en el acuerdo.",
+    "related": [
+      "joint-venture",
+      "exploracion",
+      "pea"
+    ]
+  },
+  {
+    "id": "echado",
+    "term": "Echado",
+    "category": "Geológico",
+    "plain": "Sinónimo utilizado en algunos países y textos para el buzamiento o inclinación de una estructura geológica.",
+    "detail": "Categoría de origen: Geológico. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "buzamiento"
+    ]
+  },
+  {
+    "id": "economia-circular-minera",
+    "term": "Economía circular minera",
+    "category": "Ambiental",
+    "plain": "Enfoque que busca reducir insumos y residuos mediante reutilización de agua, recuperación de materiales, valorización de subproductos, reparación y recirculación, sin convertir automáticamente todo residuo en producto seguro.",
+    "detail": "Categoría de origen: Económico-ambiental. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "efluente",
+    "term": "Efluente",
+    "category": "Ambiental",
+    "plain": "Agua o solución que sale de un proceso o instalación y se vuelca, recircula o trata; debe cumplir límites legales.",
+    "detail": "Incluye aguas de mina, de planta y de diques. El monitoreo de pH, metales y cianuro es rutinario.",
+    "related": [
+      "monitoreo-ambiental",
+      "neutralizacion",
+      "cianuro"
+    ]
+  },
+  {
+    "id": "eia",
+    "term": "EIA",
+    "category": "Siglas",
+    "plain": "EIA: Evaluación o Estudio de Impacto Ambiental, según el contexto normativo.",
+    "detail": "Sigla frecuente del sector minero. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "impacto-ambiental"
+    ]
+  },
+  {
+    "id": "electroobtencion-ew",
+    "term": "Electroobtención (EW)",
+    "category": "Metalúrgico",
+    "plain": "Recuperación de un metal desde una solución mediante corriente eléctrica. Integra habitualmente el circuito SX-EW para producir cátodos de cobre.",
+    "detail": "Categoría de origen: Metalúrgico. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "sx-ew"
+    ]
+  },
+  {
+    "id": "emulsion",
+    "term": "Emulsión (explosivo)",
+    "category": "Operativo",
+    "plain": "Explosivo en emulsión, resistente al agua, usado en barrenos húmedos o donde el ANFO no es adecuado.",
+    "detail": "Se combina con retardos y diseños de malla para controlar vibración y fragmentación.",
+    "related": [
+      "anfo",
+      "voladura",
+      "vibraciones"
+    ]
+  },
+  {
+    "id": "escoria",
+    "term": "Escoria",
+    "category": "Metalúrgico",
+    "plain": "Fase no metálica generada en procesos de fundición, compuesta por óxidos, silicatos y otras sustancias. Puede contener metal recuperable y requiere caracterización para su uso o disposición.",
+    "detail": "Categoría de origen: Metalúrgico. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "fundicion"
+    ]
+  },
+  {
+    "id": "escorial",
+    "term": "Escorial",
+    "category": "Jurídico",
+    "plain": "Acumulación de escorias u otros residuos de fundición que, si contiene sustancias aprovechables, puede quedar alcanzada por reglas mineras específicas.",
+    "detail": "Categoría de origen: Jurídico-operativo. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "fundicion"
+    ]
+  },
+  {
+    "id": "esmia",
+    "term": "EsIA / ESMIA",
+    "category": "Ambiental",
+    "plain": "Estudio (o Evaluación) de Impacto Ambiental: documento técnico que describe el proyecto, identifica impactos y propone medidas de prevención y mitigación.",
+    "detail": "En la práctica argentina minera se habla también de IIA (Informe de Impacto Ambiental). La sigla varía según jurisdicción y uso coloquial.",
+    "related": [
+      "iia",
+      "dia",
+      "linea-de-base"
+    ]
+  },
+  {
+    "id": "estabilidad-fiscal",
+    "term": "Estabilidad fiscal",
+    "category": "Económico",
+    "plain": "Beneficio que congela, por un plazo, la carga tributaria aplicable a un proyecto minero aprobado, para dar previsibilidad a la inversión.",
+    "detail": "En el marco de la Ley 24.196 de Inversiones Mineras, la estabilidad fiscal es uno de los incentivos centrales. No elimina todos los tributos: fija reglas frente a cambios posteriores.",
+    "related": [
+      "regalias-mineras",
+      "rigi",
+      "ley-de-inversiones-mineras"
+    ]
+  },
+  {
+    "id": "estabilidad-fisica",
+    "term": "Estabilidad física",
+    "category": "Ambiental",
+    "plain": "Capacidad de taludes, botaderos, pilas, depósitos de relaves y otras estructuras para resistir deformaciones o fallas bajo condiciones previstas, incluidos sismos y eventos extremos.",
+    "detail": "Categoría de origen: Geotécnico-ambiental. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "esteril",
+    "term": "Estéril",
+    "category": "Operativo",
+    "plain": "Roca o material que, bajo los criterios del proyecto, no se procesa como mineral. Puede cambiar de clasificación por nueva información, tecnología, precios o exigencias ambientales.",
+    "detail": "Categoría de origen: Operativo. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "mineral"
+    ]
+  },
+  {
+    "id": "estudio-de-factibilidad",
+    "term": "Estudio de factibilidad",
+    "category": "Económico",
+    "plain": "Evaluación integral y de alta confianza que sustenta una decisión de inversión mediante ingeniería, costos, método minero, procesamiento y factores ambientales, sociales, legales y comerciales. En estándares CRIRSCO, permite respaldar la conversión de recursos en reservas cuando corresponda.",
+    "detail": "Categoría de origen: Económico-técnico. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "estudio-de-prefactibilidad",
+    "term": "Estudio de prefactibilidad",
+    "category": "Económico",
+    "plain": "Evaluación intermedia que analiza alternativas y define una opción preferida con suficiente detalle para evaluar viabilidad y aplicar factores modificadores. Tiene menor nivel de confianza que un estudio de factibilidad.",
+    "detail": "Categoría de origen: Económico-técnico. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "estudio-de-factibilidad",
+      "factores-modificadores"
+    ]
+  },
+  {
+    "id": "exploracion",
+    "term": "Exploración",
+    "category": "Jurídico",
+    "plain": "Actividades dirigidas a identificar, delimitar y caracterizar mineralización. Puede comprender cartografía, geofísica, geoquímica, trincheras y perforaciones; los trabajos y permisos dependen del régimen jurídico y ambiental aplicable.",
+    "detail": "Categoría de origen: Geológico-jurídico. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "geofisica",
+      "geoquimica",
+      "mineralizacion"
+    ]
+  },
+  {
+    "id": "explotacion",
+    "term": "Explotación",
+    "category": "Jurídico",
+    "plain": "Extracción y aprovechamiento sistemático de una mina o cantera. La concesión minera otorga derechos, pero su ejercicio queda sujeto a amparo, seguridad, ambiente y demás autorizaciones.",
+    "detail": "Categoría de origen: Operativo-jurídico. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "cantera",
+      "concesion-minera"
+    ]
+  },
+  {
+    "id": "extraccion-por-solventes-sx",
+    "term": "Extracción por solventes (SX)",
+    "category": "Metalúrgico",
+    "plain": "Proceso líquido-líquido que transfiere selectivamente un metal desde una solución a otra fase para purificarlo y concentrarlo; suele preceder a la electroobtención de cobre.",
+    "detail": "Categoría de origen: Metalúrgico. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "factor-de-carga",
+    "term": "Factor de carga",
+    "category": "Operativo",
+    "plain": "Cantidad de explosivo usada por unidad de roca (kg/t o kg/m³). Influye en fragmentación, costo y vibraciones.",
+    "detail": "Se ajusta con la malla de perforación y el tipo de explosivo. Exceso = daño y costo; defecto = bolones.",
+    "related": [
+      "voladura",
+      "anfo",
+      "malla-de-perforacion"
+    ]
+  },
+  {
+    "id": "factores-modificadores",
+    "term": "Factores modificadores",
+    "category": "Económico",
+    "plain": "Consideraciones mineras, metalúrgicas, económicas, comerciales, legales, ambientales, sociales, de infraestructura y gubernamentales aplicadas para convertir recursos minerales medidos o indicados en reservas.",
+    "detail": "Categoría de origen: Económico-técnico. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "falla",
+    "term": "Falla",
+    "category": "Geológico",
+    "plain": "Fractura o zona de fracturas a lo largo de la cual ocurrió desplazamiento. Puede controlar mineralización, agua subterránea y estabilidad geotécnica.",
+    "detail": "Categoría de origen: Geológico. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "mineralizacion"
+    ]
+  },
+  {
+    "id": "feasibility-study",
+    "term": "Feasibility study (FS)",
+    "category": "Económico",
+    "plain": "Estudio de factibilidad: ingeniería y economía detalladas para decidir construir (o no) la mina, con precisión suficiente para financiamiento.",
+    "detail": "Suele seguir a PFS. Incluye reservas, metalurgia, CAPEX/OPEX, ambiente y riesgos. Estándares NI 43-101 / CRIRSCO marcan qué se puede declarar.",
+    "related": [
+      "pfs",
+      "pea",
+      "reserva-mineral",
+      "ni-43-101"
+    ]
+  },
+  {
+    "id": "flotacion",
+    "term": "Flotación",
+    "category": "Metalúrgico",
+    "plain": "Separación de minerales finamente molidos según sus propiedades superficiales, mediante reactivos y burbujas de aire. Produce normalmente un concentrado y relaves.",
+    "detail": "Categoría de origen: Metalúrgico. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "concentrado"
+    ]
+  },
+  {
+    "id": "fondo-de-cierre",
+    "term": "Fondo de cierre",
+    "category": "Ambiental",
+    "plain": "Mecanismo financiero destinado a asegurar recursos para ejecutar medidas de cierre, poscierre y contingencias. Su forma concreta depende del marco normativo y de las condiciones del proyecto.",
+    "detail": "Categoría de origen: Económico-ambiental. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "fs",
+    "term": "FS",
+    "category": "Siglas",
+    "plain": "FS: Estudio de factibilidad.",
+    "detail": "Sigla frecuente del sector minero. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "estudio-de-factibilidad"
+    ]
+  },
+  {
+    "id": "fundicion",
+    "term": "Fundición",
+    "category": "Metalúrgico",
+    "plain": "Tratamiento a alta temperatura que separa metal o una fase metálica de otros componentes del concentrado o mineral.",
+    "detail": "Categoría de origen: Metalúrgico. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "concentrado",
+      "mineral"
+    ]
+  },
+  {
+    "id": "galeria",
+    "term": "Galería",
+    "category": "Operativo",
+    "plain": "Labor subterránea aproximadamente horizontal utilizada para acceso, exploración, transporte, ventilación o explotación.",
+    "detail": "Categoría de origen: Operativo. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "exploracion",
+      "explotacion"
+    ]
+  },
+  {
+    "id": "ganga",
+    "term": "Ganga",
+    "category": "Geológico",
+    "plain": "Minerales sin valor económico principal que acompañan al mineral útil. Pueden influir en recuperación, consumo de reactivos, calidad del concentrado y comportamiento ambiental.",
+    "detail": "Categoría de origen: Geológico-metalúrgico. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "concentrado",
+      "mineral"
+    ]
+  },
+  {
+    "id": "garantia-ambiental",
+    "term": "Garantía ambiental",
+    "category": "Ambiental",
+    "plain": "Respaldo financiero (seguro, fianza, fondo) que el titular debe constituir para cubrir cierre, remediación o contingencias ambientales.",
+    "detail": "Complementa el plan de cierre. Su monto y forma los fija la autoridad según riesgo y etapa del proyecto.",
+    "related": [
+      "plan-de-cierre",
+      "pasivo-ambiental",
+      "fondo-de-cierre"
+    ]
+  },
+  {
+    "id": "geofisica",
+    "term": "Geofísica",
+    "category": "Exploración",
+    "plain": "Aplicación de métodos físicos —magnéticos, eléctricos, electromagnéticos, gravimétricos o sísmicos— para inferir propiedades del subsuelo.",
+    "detail": "Categoría de origen: Exploración. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "exploracion"
+    ]
+  },
+  {
+    "id": "geomembrana",
+    "term": "Geomembrana",
+    "category": "Operativo",
+    "plain": "Lámina impermeable (suele ser HDPE) que aísla pilas, diques o pad para evitar que soluciones o lixiviados lleguen al suelo y al agua subterránea.",
+    "detail": "Su instalación, soldadura y control de fugas son críticos en seguridad ambiental de relaves y lixiviación.",
+    "related": [
+      "pad-de-lixiviacion",
+      "dique-de-colas",
+      "hdpe"
+    ]
+  },
+  {
+    "id": "geoquimica",
+    "term": "Geoquímica",
+    "category": "Exploración",
+    "plain": "Estudio de la distribución de elementos químicos en rocas, suelos, sedimentos, aguas o vegetación para reconocer anomalías y procesos geológicos.",
+    "detail": "Categoría de origen: Exploración. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "exploracion"
+    ]
+  },
+  {
+    "id": "georreferenciacion",
+    "term": "Georreferenciación",
+    "category": "Operativo",
+    "plain": "Asignación de coordenadas y sistema de referencia a datos, puntos o polígonos. Es indispensable para representar pedimentos y evitar ambigüedades espaciales.",
+    "detail": "Categoría de origen: Técnico-catastral. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "gestion-oficiosa",
+    "term": "Gestión oficiosa",
+    "category": "Jurídico",
+    "plain": "Actuación de una persona que realiza una manifestación o gestión minera por cuenta de otra sin mandato previo, sujeta a las condiciones y ratificación que establece el régimen.",
+    "detail": "Categoría de origen: Jurídico. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "gossan",
+    "term": "Gossan",
+    "category": "Geológico",
+    "plain": "Capa superficial oxidada y ferruginosa que “delata” un cuerpo sulfurado debajo; guía clásica de exploración.",
+    "detail": "También llamado “sombrero de hierro”. Su muestreo ayuda a priorizar targets, pero no garantiza ley económica.",
+    "related": [
+      "oxidos",
+      "afloramiento",
+      "sulfuros"
+    ]
+  },
+  {
+    "id": "grado-de-liberacion",
+    "term": "Grado de liberación",
+    "category": "Metalúrgico",
+    "plain": "Proporción en que las partículas del mineral útil quedan separadas de la ganga después de la conminución. Influye directamente en la recuperación.",
+    "detail": "Categoría de origen: Metalúrgico. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "ganga",
+      "mineral"
+    ]
+  },
+  {
+    "id": "grupo-minero",
+    "term": "Grupo minero",
+    "category": "Jurídico",
+    "plain": "Reunión de pertenencias contiguas o próximas bajo las condiciones legales, para facilitar una explotación integrada.",
+    "detail": "Categoría de origen: Jurídico-operativo. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "explotacion"
+    ]
+  },
+  {
+    "id": "hdpe",
+    "term": "HDPE",
+    "category": "Operativo",
+    "plain": "Polietileno de alta densidad: material plástico habitual de geomembranas y cañerías en minería por su resistencia química.",
+    "detail": "Sigla del inglés High Density Polyethylene. Se especifica espesor, resina y ensayos de soldadura.",
+    "related": [
+      "geomembrana",
+      "pad-de-lixiviacion"
+    ]
+  },
+  {
+    "id": "heap-leaching",
+    "term": "Heap leaching",
+    "category": "Metalúrgico",
+    "plain": "Véase lixiviación en pilas.",
+    "detail": "*.",
+    "related": [
+      "lixiviacion",
+      "lixiviacion-en-pilas"
+    ]
+  },
+  {
+    "id": "hidrometalurgia",
+    "term": "Hidrometalurgia",
+    "category": "Metalúrgico",
+    "plain": "Recuperación de metales mediante soluciones acuosas. Incluye lixiviación, purificación, precipitación, extracción por solventes y electroobtención.",
+    "detail": "Categoría de origen: Metalúrgico. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "lixiviacion"
+    ]
+  },
+  {
+    "id": "hidrotermal",
+    "term": "Hidrotermal",
+    "category": "Geológico",
+    "plain": "Proceso geológico de fluidos calientes que circulan por la corteza y depositan minerales; origen de muchos yacimientos metálicos.",
+    "detail": "Da lugar a alteración hidrotermal, vetas, stockworks y sistemas epitermales o porfíricos.",
+    "related": [
+      "alteracion-hidrotermal",
+      "epitermal",
+      "veta"
+    ]
+  },
+  {
+    "id": "hipoteca-minera",
+    "term": "Hipoteca minera",
+    "category": "Jurídico",
+    "plain": "Garantía real constituida sobre una mina o derecho susceptible de hipoteca, conforme a las reglas especiales mineras y registrales.",
+    "detail": "Categoría de origen: Jurídico. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "huella-minera",
+    "term": "Huella minera",
+    "category": "Ambiental",
+    "plain": "Superficie directa o indirectamente ocupada o transformada por instalaciones, caminos, labores, depósitos y servicios de un proyecto. Debe definirse con precisión para evitar comparaciones engañosas.",
+    "detail": "Categoría de origen: Ambiental. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "iia",
+    "term": "IIA",
+    "category": "Siglas",
+    "plain": "IIA: Informe de Impacto Ambiental.",
+    "detail": "Sigla frecuente del sector minero. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "impacto-ambiental"
+    ]
+  },
+  {
+    "id": "impacto-acumulativo",
+    "term": "Impacto acumulativo",
+    "category": "Ambiental",
+    "plain": "Efecto combinado de distintas acciones pasadas, presentes o razonablemente previsibles sobre un mismo componente ambiental o social.",
+    "detail": "Categoría de origen: Ambiental. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "impacto-ambiental",
+    "term": "Impacto ambiental",
+    "category": "Ambiental",
+    "plain": "Cambio producido por una actividad sobre el ambiente. Puede ser positivo o negativo, directo o indirecto, temporal o permanente, reversible o irreversible y acumulativo o sinérgico.",
+    "detail": "Categoría de origen: Ambiental. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "indicio-mineral",
+    "term": "Indicio mineral",
+    "category": "Exploración",
+    "plain": "Evidencia geológica, geoquímica, geofísica o mineralógica que sugiere la posible presencia de mineralización, sin demostrar todavía un recurso.",
+    "detail": "Categoría de origen: Exploración. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "exploracion",
+      "geofisica",
+      "geoquimica",
+      "mineralizacion"
+    ]
+  },
+  {
+    "id": "informe-de-impacto-ambiental-iia",
+    "term": "Informe de Impacto Ambiental (IIA)",
+    "category": "Jurídico",
+    "plain": "Documento técnico que describe el proyecto, la línea de base, los impactos previsibles y las medidas de prevención, mitigación, rehabilitación y control. En el régimen minero argentino debe presentarse antes de iniciar las actividades comprendidas.",
+    "detail": "Categoría de origen: Ambiental-jurídico. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "rehabilitacion"
+    ]
+  },
+  {
+    "id": "infraestructura-minera",
+    "term": "Infraestructura minera",
+    "category": "Operativo",
+    "plain": "Caminos, energía, agua, comunicaciones, campamentos, talleres, plantas, ductos y demás obras necesarias para desarrollar un proyecto.",
+    "detail": "Categoría de origen: Operativo. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "internacion-de-labores",
+    "term": "Internación de labores",
+    "category": "Jurídico",
+    "plain": "Ingreso o avance de labores mineras desde una pertenencia hacia otra, situación regulada por el Código por sus efectos sobre derechos colindantes.",
+    "detail": "Categoría de origen: Jurídico. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "pertenencia"
+    ]
+  },
+  {
+    "id": "inversion-de-capital",
+    "term": "Inversión de capital",
+    "category": "Jurídico",
+    "plain": "Compromiso mínimo de inversión que integra el sistema de amparo de la concesión minera, bajo los montos, etapas y condiciones legales vigentes.",
+    "detail": "Categoría de origen: Jurídico-económico. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "concesion-minera"
+    ]
+  },
+  {
+    "id": "iocg",
+    "term": "IOCG",
+    "category": "Geológico",
+    "plain": "Sigla de Iron Oxide Copper-Gold: familia de depósitos con óxidos de hierro, cobre y a menudo oro, distintos de los pórfidos clásicos.",
+    "detail": "Modelo exploratorio usado en varias provincias argentinas. Requiere reconocer ensambles de magnetita/hematita y alteración asociada.",
+    "related": [
+      "oxidos",
+      "sulfuros"
+    ]
+  },
+  {
+    "id": "joint-venture",
+    "term": "Joint venture (JV)",
+    "category": "Comercial",
+    "plain": "Acuerdo entre dos o más empresas para explorar o desarrollar un proyecto compartiendo costos, riesgos y eventuales beneficios.",
+    "detail": "Suele incluir earn-in (ganar participación invirtiendo), comités de gestión y reglas de salida. Muy usado en exploración argentina.",
+    "related": [
+      "earn-in",
+      "royalty",
+      "sociedad-minera"
+    ]
+  },
+  {
+    "id": "labor-legal",
+    "term": "Labor legal",
+    "category": "Jurídico",
+    "plain": "Trabajo ejecutado por el descubridor para poner de manifiesto el criadero, sus características y orientación. Su realización y comunicación forman parte del procedimiento para constituir la concesión.",
+    "detail": "Categoría de origen: Jurídico-operativo. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "criadero",
+      "descubridor"
+    ]
+  },
+  {
+    "id": "ley-de-cabeza",
+    "term": "Ley de cabeza",
+    "category": "Operativo",
+    "plain": "Concentración de metal en el mineral que entra a planta (o a la pila) en un período: el “alimento” del proceso.",
+    "detail": "Se controla con muestreo y ore control. Diferencias con la ley de reserva impactan recuperación y economía.",
+    "related": [
+      "rom",
+      "ore-control",
+      "ley-de-corte"
+    ]
+  },
+  {
+    "id": "ley-de-corte",
+    "term": "Ley de corte",
+    "category": "Económico",
+    "plain": "Umbral utilizado para clasificar material como mineral procesable o no procesable bajo determinados supuestos de precio, recuperación, costos y capacidad. No es una propiedad natural fija del yacimiento.",
+    "detail": "Categoría de origen: Económico-operativo. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "mineral",
+      "yacimiento"
+    ]
+  },
+  {
+    "id": "ley-de-glaciares",
+    "term": "Ley de glaciares",
+    "category": "Ambiental",
+    "plain": "Norma nacional (Ley 26.639) que protege glaciares y ambiente periglacial, limitando actividades que puedan afectarlos, incluida la minería en ciertas zonas.",
+    "detail": "En Cordillera (San Juan, etc.) es un eje de evaluación ambiental y de conflictos territoriales. Se cruza con inventarios de glaciares y con la IIA del proyecto.",
+    "related": [
+      "iia",
+      "monitoreo-ambiental"
+    ]
+  },
+  {
+    "id": "ley-de-inversiones-mineras",
+    "term": "Ley de Inversiones Mineras",
+    "category": "Jurídico",
+    "plain": "Ley nacional 24.196 que establece beneficios e incentivos (entre ellos estabilidad fiscal) para promover la inversión minera.",
+    "detail": "Se articula con el Código de Minería y con adhesiones/regímenes provinciales. Consultar texto actualizado y decretos reglamentarios.",
+    "related": [
+      "estabilidad-fiscal",
+      "regalias-mineras",
+      "acuerdo-federal-minero"
+    ]
+  },
+  {
+    "id": "ley-del-mineral",
+    "term": "Ley del mineral",
+    "category": "Geológico",
+    "plain": "Concentración de un elemento o sustancia valiosa en una muestra o volumen. Se expresa, según el caso, en porcentaje, gramos por tonelada, partes por millón u otras unidades.",
+    "detail": "Categoría de origen: Geológico-económico. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "licencia-social",
+    "term": "Licencia social",
+    "category": "Social",
+    "plain": "Nivel informal y dinámico de aceptación o legitimidad que una comunidad atribuye a una actividad. No es un permiso legal ni sustituye la participación ciudadana o las autorizaciones estatales.",
+    "detail": "Categoría de origen: Social. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "linea-de-base",
+    "term": "Línea de base",
+    "category": "Ambiental",
+    "plain": "Diagnóstico del ambiente y del medio social antes de que el proyecto opere, para comparar después los cambios reales.",
+    "detail": "Es insumo clave del IIA. Sin una buena línea de base es difícil demostrar impactos o mejoras.",
+    "related": [
+      "iia",
+      "monitoreo-ambiental",
+      "esmia"
+    ]
+  },
+  {
+    "id": "linea-de-base-ambiental",
+    "term": "Línea de base ambiental",
+    "category": "Ambiental",
+    "plain": "Caracterización del ambiente y del contexto social antes de una intervención, utilizada para evaluar impactos, diseñar medidas y monitorear cambios.",
+    "detail": "Categoría de origen: Ambiental. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "lingote",
+    "term": "Lingote",
+    "category": "Metalúrgico",
+    "plain": "Bloque metálico solidificado (oro, plata, cobre, etc.) listo para refino, custodia o venta.",
+    "detail": "La barra doré es un tipo de lingote impure de Au-Ag de planta.",
+    "related": [
+      "dore",
+      "catodo-de-cobre"
+    ]
+  },
+  {
+    "id": "lixiviacion",
+    "term": "Lixiviación",
+    "category": "Metalúrgico",
+    "plain": "Disolución selectiva de componentes valiosos mediante una solución reactiva.",
+    "detail": "Categoría de origen: Metalúrgico. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "lixiviacion-en-pilas",
+    "term": "Lixiviación en pilas",
+    "category": "Ambiental",
+    "plain": "Proceso en el que material triturado o aglomerado se apila sobre una base preparada y se riega con solución lixiviante para recuperar metales. Exige control de impermeabilización, soluciones y estabilidad.",
+    "detail": "Categoría de origen: Metalúrgico-ambiental. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "lom",
+    "term": "LOM",
+    "category": "Siglas",
+    "plain": "LOM: Life of Mine o vida útil/plan de vida de mina.",
+    "detail": "Sigla frecuente del sector minero. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "malla-de-perforacion",
+    "term": "Malla de perforación",
+    "category": "Operativo",
+    "plain": "Disposición (burden y spacing) de los barrenos de voladura en un banco o frente.",
+    "detail": "Diseño geotécnico y de fragmentación. Se documenta en planos de voladura.",
+    "related": [
+      "voladura",
+      "factor-de-carga",
+      "vibraciones"
+    ]
+  },
+  {
+    "id": "manifestacion-de-descubrimiento",
+    "term": "Manifestación de descubrimiento",
+    "category": "Jurídico",
+    "plain": "Presentación formal mediante la cual el descubridor denuncia una mina ante la autoridad, identifica el punto de descubrimiento, acompaña la muestra y cumple los requisitos del Código y del procedimiento provincial.",
+    "detail": "Categoría de origen: Jurídico. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "descubridor",
+      "descubrimiento",
+      "punto-de-descubrimiento"
+    ]
+  },
+  {
+    "id": "manto",
+    "term": "Manto",
+    "category": "Geológico",
+    "plain": "Cuerpo mineralizado o estrato aproximadamente tabular y concordante con la estructura de las rocas encajantes.",
+    "detail": "Categoría de origen: Geológico. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "cuerpo-mineralizado"
+    ]
+  },
+  {
+    "id": "mena",
+    "term": "Mena",
+    "category": "Geológico",
+    "plain": "Mineral o conjunto de minerales del que puede obtenerse una sustancia útil. En sentido económico estricto, su aprovechamiento debe resultar razonablemente viable bajo condiciones definidas.",
+    "detail": "Categoría de origen: Geológico-económico. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "mineral"
+    ]
+  },
+  {
+    "id": "mensura-minera",
+    "term": "Mensura minera",
+    "category": "Jurídico",
+    "plain": "Operación técnica y jurídica que ubica, mide y demarca una pertenencia minera. Una vez aprobada y registrada, define espacialmente la concesión.",
+    "detail": "Categoría de origen: Jurídico-catastral. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "pertenencia"
+    ]
+  },
+  {
+    "id": "metal-precioso",
+    "term": "Metal precioso",
+    "category": "Comercial",
+    "plain": "Metal de alto valor y características particulares de durabilidad y escasez, como oro, plata y metales del grupo del platino.",
+    "detail": "Categoría de origen: Comercial. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "metalurgica-extractiva",
+    "term": "Metalúrgica extractiva",
+    "category": "Operativo",
+    "plain": "Disciplina y conjunto de procesos utilizados para separar, concentrar, purificar y obtener metales desde minerales, concentrados o materiales secundarios.",
+    "detail": "Categoría de origen: Técnico. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "mina",
+    "term": "Mina",
+    "category": "Jurídico",
+    "plain": "Objeto de propiedad minera constituido sobre un criadero conforme al Código. Es distinto del terreno superficial y tiene carácter inmueble.",
+    "detail": "Categoría de origen: Jurídico. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "criadero"
+    ]
+  },
+  {
+    "id": "mina-a-cielo-abierto",
+    "term": "Mina a cielo abierto",
+    "category": "Operativo",
+    "plain": "Explotación realizada desde la superficie mediante bancos y fases sucesivas. También se denomina rajo o open pit.",
+    "detail": "it*.",
+    "related": [
+      "explotacion",
+      "open-pit"
+    ]
+  },
+  {
+    "id": "mina-subterranea",
+    "term": "Mina subterránea",
+    "category": "Operativo",
+    "plain": "Explotación desarrollada mediante labores bajo superficie, con métodos seleccionados según geometría, geotecnia, ley, profundidad y costos.",
+    "detail": "Categoría de origen: Operativo. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "explotacion"
+    ]
+  },
+  {
+    "id": "mineral",
+    "term": "Mineral",
+    "category": "Geológico",
+    "plain": "Sustancia natural, generalmente sólida e inorgánica, con composición química y estructura cristalina características. En operación, mineral también puede designar material enviado a proceso, por oposición a estéril.",
+    "detail": "l.",
+    "related": [
+      "esteril",
+      "oposicion"
+    ]
+  },
+  {
+    "id": "mineral-critico",
+    "term": "Mineral crítico",
+    "category": "Económico",
+    "plain": "Mineral considerado esencial para sectores económicos o tecnológicos y expuesto a riesgos de suministro. Las listas varían por país y momento; no es una categoría geológica universal.",
+    "detail": "Categoría de origen: Económico-estratégico. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "mineral"
+    ]
+  },
+  {
+    "id": "mineralizacion",
+    "term": "Mineralización",
+    "category": "Geológico",
+    "plain": "Presencia y distribución de minerales de interés dentro de una roca o estructura. No equivale necesariamente a recurso ni a reserva.",
+    "detail": "Categoría de origen: Geológico. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "mineria-aluvial",
+    "term": "Minería aluvial",
+    "category": "Geológico",
+    "plain": "Aprovechamiento de minerales concentrados por procesos sedimentarios en cauces, terrazas o depósitos sueltos, como ciertos placeres auríferos.",
+    "detail": "Categoría de origen: Operativo-geológico. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "mineria-de-primera-segunda-y-tercera-categoria",
+    "term": "Minería de primera, segunda y tercera categoría",
+    "category": "Jurídico",
+    "plain": "Clasificación del Código de Minería argentino que determina el régimen aplicable a las sustancias según su naturaleza y relación con el Estado o el dueño del suelo. No clasifica el tamaño de la empresa ni la importancia económica.",
+    "detail": "Categoría de origen: Jurídico. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "codigo-de-mineria"
+    ]
+  },
+  {
+    "id": "mineria-metalifera",
+    "term": "Minería metalífera",
+    "category": "Operativo",
+    "plain": "Actividad destinada a obtener metales o minerales metálicos, como cobre, oro, plata, plomo o zinc.",
+    "detail": "Categoría de origen: Operativo. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "mineria-no-metalifera",
+    "term": "Minería no metalífera",
+    "category": "Operativo",
+    "plain": "Extracción de minerales utilizados por sus propiedades físicas o químicas y no principalmente por su contenido metálico, como cal, bentonita, boratos o sales.",
+    "detail": "Categoría de origen: Operativo. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "contenido-metalico"
+    ]
+  },
+  {
+    "id": "mineria-subterranea",
+    "term": "Minería subterránea",
+    "category": "Operativo",
+    "plain": "Extracción del mineral mediante labores bajo tierra (rampas, piques, galerías, caserones), sin abrir un gran rajo superficial.",
+    "detail": "Métodos: room and pillar, cut and fill, longhole, block caving, etc. Prioriza sostenimiento, ventilación y control de terreno.",
+    "related": [
+      "galeria",
+      "caseron",
+      "pique",
+      "relleno"
+    ]
+  },
+  {
+    "id": "mineria-urbana",
+    "term": "Minería urbana",
+    "category": "Metalúrgico",
+    "plain": "Recuperación de metales (cobre, oro, etc.) a partir de residuos electrónicos y otros desechos urbanos, con procesos similares a la metalurgia extractiva.",
+    "detail": "En San Juan, líneas de trabajo en la UNSJ exploran lixiviación y separación de placas y circuitos. Se vincula a economía circular.",
+    "related": [
+      "lixiviacion",
+      "concentrado",
+      "cianuro"
+    ]
+  },
+  {
+    "id": "molienda",
+    "term": "Molienda",
+    "category": "Metalúrgico",
+    "plain": "Etapa que reduce el tamaño del mineral (después del chancado) hasta liberar los minerales de interés para concentración o lixiviación.",
+    "detail": "Usa molinos SAG, de bolas u otros. El tamaño de producto (P80) condiciona recuperación y consumo energético.",
+    "related": [
+      "chancado",
+      "planta-concentradora",
+      "lixiviacion"
+    ]
+  },
+  {
+    "id": "monitoreo-ambiental",
+    "term": "Monitoreo ambiental",
+    "category": "Ambiental",
+    "plain": "Medición periódica de agua, aire, ruido, suelos, flora/fauna u otros indicadores para verificar que el proyecto cumple su IIA y la normativa.",
+    "detail": "Incluye estaciones, piezómetros, laboratorios y reportes a la autoridad. La línea de base define el “antes” del proyecto.",
+    "related": [
+      "linea-de-base",
+      "iia",
+      "piezometro"
+    ]
+  },
+  {
+    "id": "muestreo",
+    "term": "Muestreo",
+    "category": "Operativo",
+    "plain": "Obtención planificada de una porción representativa de material para análisis. La representatividad, cadena de custodia y control de calidad determinan la confiabilidad del resultado.",
+    "detail": "Categoría de origen: Técnico. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "neutralizacion",
+    "term": "Neutralización",
+    "category": "Ambiental",
+    "plain": "Tratamiento que sube el pH de un efluente ácido (por ejemplo con cal) para precipitar metales y cumplir límites de vuelco o reúso.",
+    "detail": "Es una etapa típica de plantas de tratamiento de aguas de mina o de drenaje ácido. Genera lodos que también deben gestionarse.",
+    "related": [
+      "drenaje-acido-de-roca",
+      "efluente",
+      "ph"
+    ]
+  },
+  {
+    "id": "ni-43-101",
+    "term": "NI 43-101",
+    "category": "Comercial",
+    "plain": "Norma canadiense de divulgación de proyectos mineros: cómo informar recursos, reservas y estudios económicos al mercado.",
+    "detail": "Muy usada por juniors listadas. Se alinea con CRIRSCO. Exige Personas Competentes y reglas anti-promesa engañosa.",
+    "related": [
+      "jorc",
+      "recurso-mineral",
+      "reserva-mineral",
+      "feasibility-study"
+    ]
+  },
+  {
+    "id": "nsr",
+    "term": "NSR",
+    "category": "Comercial",
+    "plain": "Net Smelter Return: ingreso neto del productor después de costos de fundición/refino, base habitual para calcular royalties privados.",
+    "detail": "Fórmula contractual: hay que leer qué deducciones admite. No es lo mismo que “precio de metal × ley”.",
+    "related": [
+      "royalty",
+      "tc-rc",
+      "concentrado"
+    ]
+  },
+  {
+    "id": "ocupacion-superficial",
+    "term": "Ocupación superficial",
+    "category": "Jurídico",
+    "plain": "Uso del terreno de superficie (caminos, planta, campamento) necesario para la mina, distinto del derecho sobre el mineral del subsuelo.",
+    "detail": "Puede requerir acuerdos con propietarios, expropiación o servidumbres. En Cordillera hay solapes con pastoreo y áreas protegidas.",
+    "related": [
+      "servidumbre-minera"
+    ]
+  },
+  {
+    "id": "offtake",
+    "term": "Offtake (contrato de compraventa)",
+    "category": "Comercial",
+    "plain": "Contrato a largo plazo para vender concentrado, cátodos u otro producto a un comprador (fundición, trader), a menudo clave para financiar la mina.",
+    "detail": "Define volúmenes, calidades, fórmulas de pago (TC/RC), destinos y penas. Se negocia en paralelo al FS bancable.",
+    "related": [
+      "tc-rc",
+      "concentrado",
+      "streaming"
+    ]
+  },
+  {
+    "id": "open-pit",
+    "term": "Open pit",
+    "category": "Operativo",
+    "plain": "Véase mina a cielo abierto.",
+    "detail": "*.",
+    "related": [
+      "mina-a-cielo-abierto"
+    ]
+  },
+  {
+    "id": "operador-minero",
+    "term": "Operador minero",
+    "category": "Jurídico",
+    "plain": "Persona o empresa que ejecuta o dirige actividades mineras. Puede coincidir o no con el titular de la concesión.",
+    "detail": "Categoría de origen: Jurídico-operativo. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "oposicion",
+    "term": "Oposición",
+    "category": "Jurídico",
+    "plain": "Presentación mediante la cual un tercero con interés legítimo cuestiona un pedimento, registro, mensura u otra actuación dentro del plazo y procedimiento correspondiente.",
+    "detail": "Categoría de origen: Jurídico-procesal. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "pedimento"
+    ]
+  },
+  {
+    "id": "ore-control",
+    "term": "Ore control (control de ley)",
+    "category": "Operativo",
+    "plain": "Práctica diaria de muestreo y delimitación de mineral vs. estéril para guiar la extracción y alimentar bien la planta.",
+    "detail": "Reduce dilución y pérdidas. Usa sondajes cortos, canales, sensores y modelos de corto plazo.",
+    "related": [
+      "ley-de-cabeza",
+      "dilucion",
+      "rom"
+    ]
+  },
+  {
+    "id": "oro-dore",
+    "term": "Oro doré",
+    "category": "Metalúrgico",
+    "plain": "Aleación semirrefinada producida en mina, compuesta principalmente por oro y plata, que se envía a una refinería para su purificación.",
+    "detail": "Categoría de origen: Metalúrgico-comercial. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "oxidos",
+    "term": "Óxidos (mineral oxidado)",
+    "category": "Geológico",
+    "plain": "Zona o mineral donde los sulfuros primarios se alteraron cerca de superficie, a menudo más aptos para lixiviación que para flotación.",
+    "detail": "En yacimientos epitermales y pórfidos la “capa de óxidos” puede tratarse distinto a la zona sulfurada profunda.",
+    "related": [
+      "sulfuros",
+      "lixiviacion",
+      "gossan"
+    ]
+  },
+  {
+    "id": "pad-de-lixiviacion",
+    "term": "Pad de lixiviación",
+    "category": "Operativo",
+    "plain": "Plataforma impermeabilizada donde se apila mineral y se riega con solución (por ejemplo cianurada) para disolver metales preciosos.",
+    "detail": "Equivalente práctico a “pila de lixiviación”. Incluye geomembrana, sistema de recolección de soluciones y controles de estabilidad.",
+    "related": [
+      "lixiviacion-en-pilas",
+      "pila-de-lixiviacion",
+      "geomembrana",
+      "cianuro"
+    ]
+  },
+  {
+    "id": "pasivo-ambiental",
+    "term": "Pasivo ambiental",
+    "category": "Ambiental",
+    "plain": "Daño, contaminación o riesgo dejado por una actividad (a veces abandonada) que todavía hay que remediar: suelos, aguas, diques, instalaciones.",
+    "detail": "En minería histórica aparece en labores viejas, botaderos y relaves. El plan de cierre busca evitar nuevos pasivos; la remediación ataca los ya existentes.",
+    "related": [
+      "plan-de-cierre",
+      "garantia-ambiental"
+    ]
+  },
+  {
+    "id": "pasivo-ambiental-minero",
+    "term": "Pasivo ambiental minero",
+    "category": "Ambiental",
+    "plain": "Labor, instalación, residuo o impacto remanente de actividades mineras pasadas que representa un riesgo o requiere gestión. La atribución de responsabilidad exige análisis jurídico y técnico caso por caso.",
+    "detail": "Categoría de origen: Ambiental. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "pea",
+    "term": "PEA",
+    "category": "Económico",
+    "plain": "Preliminary Economic Assessment: estudio económico preliminar que ordena si un proyecto merece avanzar a prefactibilidad, con márgenes de error altos.",
+    "detail": "En español a veces “evaluación económica preliminar”. No es un FS: no sostiene por sí solo una decisión de construcción.",
+    "related": [
+      "pfs",
+      "feasibility-study",
+      "recurso-mineral"
+    ]
+  },
+  {
+    "id": "pedimento",
+    "term": "Pedimento",
+    "category": "Jurídico",
+    "plain": "Solicitud de un derecho minero presentada ante la autoridad e identificada espacialmente en el catastro. Puede referirse, según el caso, a exploración, manifestación, cantera u otra figura.",
+    "detail": "Categoría de origen: Jurídico-catastral. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "cantera",
+      "exploracion"
+    ]
+  },
+  {
+    "id": "pertenencia",
+    "term": "Pertenencia",
+    "category": "Jurídico",
+    "plain": "Unidad de medida y extensión territorial de una concesión minera, delimitada mediante mensura conforme al Código.",
+    "detail": "Categoría de origen: Jurídico-catastral. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "concesion-minera"
+    ]
+  },
+  {
+    "id": "pfs",
+    "term": "PFS",
+    "category": "Siglas",
+    "plain": "PFS: Estudio de prefactibilidad.",
+    "detail": "Sigla frecuente del sector minero. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "estudio-de-prefactibilidad"
+    ]
+  },
+  {
+    "id": "ph",
+    "term": "pH",
+    "category": "Ambiental",
+    "plain": "Medida de acidez o alcalinidad del agua. En minería controla solubilidad de metales y el cumplimiento de vuelcos.",
+    "detail": "Escala 0–14. Aguas de drenaje ácido tienen pH bajo; la neutralización busca subirlo.",
+    "related": [
+      "drenaje-acido-de-roca",
+      "neutralizacion",
+      "monitoreo-ambiental"
+    ]
+  },
+  {
+    "id": "piezometro",
+    "term": "Piezómetro",
+    "category": "Geotécnico",
+    "plain": "Instrumento que mide el nivel o la presión del agua en el suelo o en un dique, para controlar estabilidad y filtraciones.",
+    "detail": "Se usa en botaderos, pilas, diques de colas y taludes. Lecturas altas pueden indicar riesgo geotécnico o fugas.",
+    "related": [
+      "monitoreo-ambiental",
+      "dique-de-colas",
+      "estabilidad-fisica"
+    ]
+  },
+  {
+    "id": "pila-de-lixiviacion",
+    "term": "Pila de lixiviación",
+    "category": "Operativo",
+    "plain": "Estructura donde se dispone mineral para aplicar una solución lixiviante y recolectar la solución enriquecida.",
+    "detail": "Categoría de origen: Operativo. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "mineral"
+    ]
+  },
+  {
+    "id": "pique",
+    "term": "Pique",
+    "category": "Operativo",
+    "plain": "Pozo vertical o inclinado que conecta niveles de la mina para personal, mineral, ventilación o servicios.",
+    "detail": "Infraestructura crítica en minas profundas. Requiere sostenimiento y sistemas de izaje.",
+    "related": [
+      "mineria-subterranea",
+      "galeria",
+      "chimenea"
+    ]
+  },
+  {
+    "id": "placer",
+    "term": "Placer",
+    "category": "Geológico",
+    "plain": "Depósito de minerales pesados concentrados mecánicamente por agua, gravedad o viento en sedimentos no consolidados.",
+    "detail": "Categoría de origen: Geológico. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "plan-de-cierre",
+    "term": "Plan de cierre",
+    "category": "Ambiental",
+    "plain": "Documento que define objetivos, medidas, cronograma, monitoreo, costos y responsabilidades para cierre y poscierre. Debe actualizarse con la evolución del proyecto.",
+    "detail": "Categoría de origen: Ambiental-operativo. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "planta-concentradora",
+    "term": "Planta concentradora",
+    "category": "Metalúrgico",
+    "plain": "Instalación que trituta, muele y concentra el mineral (por flotación u otros métodos) para obtener un producto vendible más rico en metal.",
+    "detail": "Genera concentrado y colas. Su balance metalúrgico define recuperaciones y costos.",
+    "related": [
+      "concentrado",
+      "flotacion",
+      "molienda",
+      "colas-o-relaves"
+    ]
+  },
+  {
+    "id": "planta-de-procesamiento",
+    "term": "Planta de procesamiento",
+    "category": "Operativo",
+    "plain": "Instalación donde el mineral se tritura, muele, concentra, lixivia o trata para producir concentrado, metal u otro producto comercial.",
+    "detail": "Categoría de origen: Operativo. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "concentrado",
+      "mineral"
+    ]
+  },
+  {
+    "id": "policia-minera",
+    "term": "Policía minera",
+    "category": "Jurídico",
+    "plain": "Función estatal de fiscalización y control de seguridad, conservación, cumplimiento técnico y demás obligaciones de las labores mineras.",
+    "detail": "Categoría de origen: Jurídico. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "pos-cierre",
+    "term": "Pos cierre",
+    "category": "Ambiental",
+    "plain": "Período posterior al cierre físico durante el cual continúan monitoreo, mantenimiento, tratamiento de aguas u otras obligaciones hasta alcanzar condiciones estables y aceptadas.",
+    "detail": "Categoría de origen: Ambiental. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "potencia",
+    "term": "Potencia",
+    "category": "Geológico",
+    "plain": "Espesor verdadero de una veta, manto, capa o cuerpo tabular, medido perpendicularmente a sus contactos.",
+    "detail": "Categoría de origen: Geológico. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "manto",
+      "veta"
+    ]
+  },
+  {
+    "id": "prospeccion",
+    "term": "Prospección",
+    "category": "Exploración",
+    "plain": "Búsqueda regional o inicial de áreas favorables mediante información geológica, imágenes, reconocimiento, geoquímica y geofísica. Suele preceder a la exploración detallada.",
+    "detail": "Categoría de origen: Exploración. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "exploracion",
+      "geofisica",
+      "geoquimica"
+    ]
+  },
+  {
+    "id": "proveedor-minero",
+    "term": "Proveedor minero",
+    "category": "Económico",
+    "plain": "Persona o empresa que suministra bienes, obras o servicios a la actividad minera. Ser proveedor no confiere derechos sobre el yacimiento ni sustituye habilitaciones específicas.",
+    "detail": "Categoría de origen: Económico. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "actividad-minera",
+      "yacimiento"
+    ]
+  },
+  {
+    "id": "proyecto-minero",
+    "term": "Proyecto minero",
+    "category": "Económico",
+    "plain": "Iniciativa organizada para investigar o desarrollar un depósito. Puede encontrarse en etapas de exploración temprana, avanzada, evaluación, construcción, operación, cuidado y mantenimiento o cierre.",
+    "detail": "Categoría de origen: Económico-operativo. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "exploracion"
+    ]
+  },
+  {
+    "id": "punto-de-descubrimiento",
+    "term": "Punto de descubrimiento",
+    "category": "Jurídico",
+    "plain": "Ubicación precisa declarada en una manifestación de descubrimiento, desde la cual se ordenan efectos de prioridad y ubicación conforme al procedimiento.",
+    "detail": "Categoría de origen: Jurídico-catastral. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "descubrimiento",
+      "manifestacion-de-descubrimiento"
+    ]
+  },
+  {
+    "id": "qa-qc",
+    "term": "QA/QC",
+    "category": "Siglas",
+    "plain": "QA/QC: Aseguramiento y control de calidad.",
+    "detail": "Sigla frecuente del sector minero. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "rajo",
+    "term": "Rajo (open pit)",
+    "category": "Operativo",
+    "plain": "Mina a cielo abierto: excavación en bancos desde superficie para extraer el yacimiento.",
+    "detail": "Término muy usado en Chile y Argentina. Implica diseño de taludes, rampas, strip ratio y botaderos.",
+    "related": [
+      "strip-ratio",
+      "botadero",
+      "voladura"
+    ]
+  },
+  {
+    "id": "rc",
+    "term": "RC",
+    "category": "Siglas",
+    "plain": "RC: Perforación de circulación reversa.",
+    "detail": "Sigla frecuente del sector minero. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "reactivo",
+    "term": "Reactivo",
+    "category": "Metalúrgico",
+    "plain": "Sustancia utilizada para modificar, disolver, colectar, deprimir, flocular o separar componentes durante el procesamiento mineral.",
+    "detail": "Categoría de origen: Metalúrgico. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "mineral"
+    ]
+  },
+  {
+    "id": "recuperacion-metalurgica",
+    "term": "Recuperación metalúrgica",
+    "category": "Económico",
+    "plain": "Porcentaje del metal contenido en la alimentación que se recupera en el producto útil. Debe diferenciarse de ley, contenido y pagabilidad.",
+    "detail": "Categoría de origen: Metalúrgico-económico. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "recurso-mineral",
+    "term": "Recurso mineral",
+    "category": "Geológico",
+    "plain": "Concentración u ocurrencia de material de interés económico con forma, calidad y cantidad que permiten perspectivas razonables de extracción eventual. Se sustenta en evidencia geológica y muestreo; no es una reserva.",
+    "detail": "Categoría de origen: Geológico-económico. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "muestreo"
+    ]
+  },
+  {
+    "id": "recurso-mineral-indicado",
+    "term": "Recurso mineral indicado",
+    "category": "Geológico",
+    "plain": "Parte de un recurso cuya cantidad, ley o calidad, geometría y características se estiman con confianza suficiente para aplicar factores modificadores y respaldar planificación y evaluación económica a nivel de prefactibilidad.",
+    "detail": "Categoría de origen: Geológico-económico. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "factores-modificadores"
+    ]
+  },
+  {
+    "id": "recurso-mineral-inferido",
+    "term": "Recurso mineral inferido",
+    "category": "Geológico",
+    "plain": "Parte de un recurso estimada con bajo nivel de confianza a partir de evidencia y muestreo limitados. La continuidad se supone, pero no se verifica suficientemente, y no puede convertirse directamente en reserva.",
+    "detail": "Categoría de origen: Geológico-económico. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "muestreo"
+    ]
+  },
+  {
+    "id": "recurso-mineral-medido",
+    "term": "Recurso mineral medido",
+    "category": "Geológico",
+    "plain": "Parte de un recurso estimada con alta confianza mediante exploración, muestreo y ensayos detallados y confiables. Puede sustentar planificación detallada y evaluación final de viabilidad.",
+    "detail": "Categoría de origen: Geológico-económico. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "exploracion",
+      "muestreo"
+    ]
+  },
+  {
+    "id": "regalia-minera",
+    "term": "Regalía minera",
+    "category": "Jurídico",
+    "plain": "Obligación de pago asociada a la extracción o producción minera, determinada por la legislación aplicable. En el régimen de inversiones argentino existen reglas sobre topes y base de cálculo; no debe confundirse con canon, impuesto o participación societaria.",
+    "detail": "Categoría de origen: Jurídico-económico. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "regalias-mineras",
+    "term": "Regalías mineras",
+    "category": "Económico",
+    "plain": "Pago que el productor minero hace al Estado (nación o provincia) por extraer un recurso no renovable. Suele calcularse sobre el valor del mineral o del concentrado.",
+    "detail": "En Argentina el régimen de regalías se articula con la Ley de Inversiones Mineras y con leyes provinciales. En San Juan hay una ley provincial específica de regalías.",
+    "related": [
+      "canon-minero",
+      "ley-de-inversiones-mineras"
+    ]
+  },
+  {
+    "id": "rehabilitacion",
+    "term": "Rehabilitación",
+    "category": "Ambiental",
+    "plain": "Acciones para llevar un área intervenida a una condición física, química, biológica y social estable y compatible con los objetivos de cierre. No siempre implica restaurar exactamente el estado original.",
+    "detail": "Categoría de origen: Ambiental. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "relacion-esteril-mineral",
+    "term": "Relación estéril/mineral",
+    "category": "Económico",
+    "plain": "Cociente entre la cantidad de estéril removido y la cantidad de mineral extraído en un período o diseño. Es un indicador clave en minas a cielo abierto.",
+    "detail": "Categoría de origen: Operativo-económico. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "esteril",
+      "mineral"
+    ]
+  },
+  {
+    "id": "relave",
+    "term": "Relave",
+    "category": "Ambiental",
+    "plain": "Véase colas o relaves.",
+    "detail": "*.",
+    "related": [
+      "colas-o-relaves"
+    ]
+  },
+  {
+    "id": "relleno",
+    "term": "Relleno (backfill)",
+    "category": "Operativo",
+    "plain": "Material que se vuelve a colocar en caserones vacíos para sostener el terreno y permitir seguir explotando zonas vecinas.",
+    "detail": "Puede ser hidráulico, en pasta (paste fill) o rocoso. Mejora estabilidad y reduce subsidencia.",
+    "related": [
+      "caseron",
+      "mineria-subterranea",
+      "colas-o-relaves"
+    ]
+  },
+  {
+    "id": "res-nullius",
+    "term": "Res nullius",
+    "category": "Jurídico",
+    "plain": "Sistema doctrinario que considera las minas cosas sin dueño susceptibles de apropiación por ocupación. Se estudia comparativamente; no describe por sí solo el régimen vigente argentino.",
+    "detail": "Categoría de origen: Jurídico-histórico. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "reserva-mineral",
+    "term": "Reserva mineral",
+    "category": "Económico",
+    "plain": "Parte económicamente explotable de un recurso medido o indicado, definida mediante estudios de prefactibilidad o factibilidad y aplicación de factores modificadores. Incluye consideraciones de dilución y pérdidas.",
+    "detail": "Categoría de origen: Económico-técnico. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "dilucion",
+      "factores-modificadores"
+    ]
+  },
+  {
+    "id": "reserva-probable",
+    "term": "Reserva probable",
+    "category": "Económico",
+    "plain": "Parte económicamente explotable de un recurso indicado y, en ciertos casos, medido. Presenta menor confianza en los factores modificadores que una reserva probada.",
+    "detail": "Categoría de origen: Económico-técnico. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "factores-modificadores",
+      "reserva-probada"
+    ]
+  },
+  {
+    "id": "reserva-probada",
+    "term": "Reserva probada",
+    "category": "Económico",
+    "plain": "Parte económicamente explotable de un recurso medido, con alto grado de confianza en los factores modificadores.",
+    "detail": "Categoría de origen: Económico-técnico. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "factores-modificadores"
+    ]
+  },
+  {
+    "id": "restauracion",
+    "term": "Restauración",
+    "category": "Ambiental",
+    "plain": "Proceso orientado a recuperar estructura, composición y funciones ecológicas de un ecosistema degradado. Es un objetivo más exigente y específico que una estabilización o rehabilitación genérica.",
+    "detail": "Categoría de origen: Ambiental. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "rehabilitacion"
+    ]
+  },
+  {
+    "id": "revegetacion",
+    "term": "Revegetación",
+    "category": "Ambiental",
+    "plain": "Siembra o plantación de especies para recuperar cobertura vegetal en áreas disturbadas al cierre o en rehabilitación progresiva.",
+    "detail": "Usa suelo vegetal guardado (topsoil), especies nativas y riego inicial. Indicador visible del plan de cierre.",
+    "related": [
+      "plan-de-cierre",
+      "capa-vegetal"
+    ]
+  },
+  {
+    "id": "rigi",
+    "term": "RIGI",
+    "category": "Económico",
+    "plain": "Régimen de Incentivo para Grandes Inversiones: marco nacional de beneficios fiscales, aduaneros y cambiarios para proyectos de gran escala que cumplan requisitos de inversión.",
+    "detail": "Sigla de uso frecuente en noticias y contratos. Conviene contrastar siempre el texto legal vigente y las condiciones de adhesión provincial.",
+    "related": [
+      "estabilidad-fiscal",
+      "joint-venture",
+      "feasibility-study"
+    ]
+  },
+  {
+    "id": "roca-de-caja",
+    "term": "Roca de caja",
+    "category": "Geológico",
+    "plain": "Roca que rodea o contiene una veta, intrusión o cuerpo mineralizado; también llamada roca encajante.",
+    "detail": "Categoría de origen: Geológico. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "cuerpo-mineralizado",
+      "veta"
+    ]
+  },
+  {
+    "id": "roca-esteril",
+    "term": "Roca estéril",
+    "category": "Operativo",
+    "plain": "Material rocoso removido para acceder al mineral pero que no se procesa como tal bajo los criterios vigentes.",
+    "detail": "Categoría de origen: Operativo. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "mineral"
+    ]
+  },
+  {
+    "id": "rom",
+    "term": "ROM",
+    "category": "Operativo",
+    "plain": "Run of Mine: mineral tal como sale de la mina, antes de chancado fino o clasificación especial.",
+    "detail": "Se reporta en toneladas y ley. El stockpile ROM amortigua variaciones diarias de producción.",
+    "related": [
+      "ley-de-cabeza",
+      "chancado",
+      "stockpile"
+    ]
+  },
+  {
+    "id": "royalty",
+    "term": "Royalty (NSR)",
+    "category": "Comercial",
+    "plain": "Participación económica sobre la producción o las ventas netas del mineral, sin que el beneficiario opere la mina. El NSR se calcula sobre ingresos netos de fundición.",
+    "detail": "Distinto de la regalía estatal. Es un instrumento privado frecuente en compras de proyectos y financiamiento.",
+    "related": [
+      "regalias-mineras",
+      "nsr",
+      "streaming"
+    ]
+  },
+  {
+    "id": "rqd",
+    "term": "RQD",
+    "category": "Geotécnico",
+    "plain": "Rock Quality Designation: índice de calidad de macizo rocoso a partir de testigos de sondaje (porcentaje de trozos >10 cm).",
+    "detail": "Se usa en clasificación geomecánica y diseño de sostenimiento/taludes. Complementa RMR/Q y ensayos de laboratorio.",
+    "related": [
+      "sondaje-diamantina",
+      "estabilidad-fisica",
+      "ucs"
+    ]
+  },
+  {
+    "id": "ruido",
+    "term": "Ruido",
+    "category": "Ambiental",
+    "plain": "Impacto sonoro de equipos, voladuras y planta. Se regula con límites en decibeles y medidas de mitigación hacia comunidades.",
+    "detail": "Forma parte de la IIA y del monitoreo. Incluye ruido continuo y eventos (voladura).",
+    "related": [
+      "vibraciones",
+      "audiencia-publica",
+      "monitoreo-ambiental"
+    ]
+  },
+  {
+    "id": "rumbo",
+    "term": "Rumbo",
+    "category": "Geológico",
+    "plain": "Dirección de la línea horizontal contenida en un plano geológico. Se utiliza junto con el buzamiento para describir su orientación espacial.",
+    "detail": "Categoría de origen: Geológico. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "buzamiento"
+    ]
+  },
+  {
+    "id": "segemar",
+    "term": "SEGEMAR",
+    "category": "Siglas",
+    "plain": "SEGEMAR: Servicio Geológico Minero Argentino.",
+    "detail": "Sigla frecuente del sector minero. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "servidumbre-minera",
+    "term": "Servidumbre minera",
+    "category": "Jurídico",
+    "plain": "Derecho real que permite al titular minero usar predios ajenos (caminos, ductos, instalaciones) necesarios para explorar o explotar, con indemnización.",
+    "detail": "Se regula en el Código de Minería y normas complementarias. No confunde con la concesión misma sobre el yacimiento.",
+    "related": [
+      "ocupacion-superficial"
+    ]
+  },
+  {
+    "id": "skarn",
+    "term": "Skarn",
+    "category": "Geológico",
+    "plain": "Yacimiento formado por metasomatismo en contactos entre magma e calizas/rocas carbonatadas; puede alojar Fe, Cu, Au, W, Zn, etc.",
+    "detail": "Se reconoce por minerales de calc-silicatos. En Argentina hay distritos skarn con interés histórico y actual.",
+    "related": [
+      "hidrotermal",
+      "sulfuros"
+    ]
+  },
+  {
+    "id": "socavon",
+    "term": "Socavón",
+    "category": "Jurídico",
+    "plain": "Labor subterránea horizontal o casi horizontal abierta desde superficie. El Código distingue figuras de exploración, explotación y socavones generales.",
+    "detail": "Categoría de origen: Jurídico-operativo. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "exploracion",
+      "explotacion"
+    ]
+  },
+  {
+    "id": "sociedad-minera",
+    "term": "Sociedad minera",
+    "category": "Jurídico",
+    "plain": "Persona jurídica (SA, SRL, etc.) titular de derechos mineros o vehiculo del proyecto; concentra permisos, contratos y responsabilidades.",
+    "detail": "En catastro el titular puede ser persona física o sociedad. Los cambios de control societario a veces deben informarse a la autoridad.",
+    "related": [
+      "joint-venture"
+    ]
+  },
+  {
+    "id": "sondaje",
+    "term": "Sondaje",
+    "category": "Exploración",
+    "plain": "Perforación destinada a obtener información del subsuelo. Puede producir testigo continuo, recortes o mediciones indirectas.",
+    "detail": "Categoría de origen: Exploración. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "exploracion",
+      "testigo"
+    ]
+  },
+  {
+    "id": "sondaje-de-circulacion-reversa-rc",
+    "term": "Sondaje de circulación reversa (RC)",
+    "category": "Exploración",
+    "plain": "Perforación que transporta recortes a superficie por un conducto interior mediante aire comprimido, permitiendo muestreo rápido y relativamente continuo.",
+    "detail": "Categoría de origen: Exploración. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "exploracion",
+      "muestreo"
+    ]
+  },
+  {
+    "id": "sondaje-diamantina",
+    "term": "Sondaje diamantina",
+    "category": "Exploración",
+    "plain": "Perforación rotativa con corona diamantada que recupera un cilindro de roca llamado testigo, útil para geología, estructura, geotecnia y muestreo.",
+    "detail": "Categoría de origen: Exploración. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "exploracion",
+      "muestreo",
+      "testigo"
+    ]
+  },
+  {
+    "id": "sostenimiento",
+    "term": "Sostenimiento",
+    "category": "Geotécnico",
+    "plain": "Elementos y técnicas destinados a mantener estable una excavación, como pernos, mallas, hormigón proyectado, marcos o relleno.",
+    "detail": "Categoría de origen: Operativo-geotécnico. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "stockpile",
+    "term": "Stockpile",
+    "category": "Operativo",
+    "plain": "Véase acopio.",
+    "detail": "*.",
+    "related": [
+      "acopio"
+    ]
+  },
+  {
+    "id": "stockwork",
+    "term": "Stockwork",
+    "category": "Geológico",
+    "plain": "Red densa de vetillas entrecruzadas que mineralizan un volumen de roca, típica de sistemas tipo pórfido.",
+    "detail": "En mapeo y testigos se describe densidad, orientación y mineralogía de las vetillas.",
+    "related": [
+      "veta",
+      "alteracion-hidrotermal"
+    ]
+  },
+  {
+    "id": "streaming",
+    "term": "Streaming",
+    "category": "Comercial",
+    "plain": "Financiamiento en el que un fondo paga por adelantado el derecho a comprar una parte de la producción futura (oro, plata, cobre) a precio preferencial.",
+    "detail": "Alternativa a deuda o equity. Impacta el flujo del proyecto y debe modelarse en la factibilidad económica.",
+    "related": [
+      "royalty",
+      "offtake",
+      "feasibility-study"
+    ]
+  },
+  {
+    "id": "strip-ratio",
+    "term": "Strip ratio (relación de despeje)",
+    "category": "Operativo",
+    "plain": "Cantidad de estéril que hay que mover por cada unidad de mineral útil en una mina a cielo abierto.",
+    "detail": "Un strip ratio alto encarece la operación. Se expresa en t/t o m³/t según el reporte.",
+    "related": [
+      "rajo",
+      "botadero",
+      "ley-de-corte"
+    ]
+  },
+  {
+    "id": "sulfuros",
+    "term": "Sulfuros",
+    "category": "Geológico",
+    "plain": "Minerales que contienen azufre (pirita, calcopirita, etc.). Son menas frecuentes de metales y también fuente potencial de drenaje ácido al oxidarse.",
+    "detail": "En exploración se mapean vetas y diseminaciones sulfuradas. En operación condicionan metalurgia y geoquímica ambiental.",
+    "related": [
+      "oxidos",
+      "drenaje-acido-de-roca",
+      "flotacion"
+    ]
+  },
+  {
+    "id": "sustancia-de-aprovechamiento-comun",
+    "term": "Sustancia de aprovechamiento común",
+    "category": "Jurídico",
+    "plain": "Sustancia de segunda categoría que, bajo los supuestos del Código, puede ser declarada de aprovechamiento común, especialmente en desmontes, relaves o escoriales. Un uso exclusivo requiere el procedimiento correspondiente.",
+    "detail": "Categoría de origen: Jurídico. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "sustancia-de-segunda-categoria",
+      "uso-exclusivo"
+    ]
+  },
+  {
+    "id": "sustancia-de-primera-categoria",
+    "term": "Sustancia de primera categoría",
+    "category": "Jurídico",
+    "plain": "Sustancia que pertenece originariamente al Estado y solo puede explotarse mediante concesión legal, con independencia del dominio superficial, conforme a la enumeración del Código.",
+    "detail": "Categoría de origen: Jurídico. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "sustancia-de-segunda-categoria",
+    "term": "Sustancia de segunda categoría",
+    "category": "Jurídico",
+    "plain": "Sustancia sometida a un régimen especial que puede contemplar aprovechamiento común o preferencia del dueño del suelo, según el tipo y ubicación.",
+    "detail": "Categoría de origen: Jurídico. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "sustancia-de-tercera-categoria",
+    "term": "Sustancia de tercera categoría",
+    "category": "Jurídico",
+    "plain": "Producción mineral de naturaleza pétrea o terrosa y rocas de aplicación cuyo régimen atribuye un papel decisivo al propietario del suelo. Incluye las canteras comprendidas por el Código.",
+    "detail": "Categoría de origen: Jurídico. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "mineral"
+    ]
+  },
+  {
+    "id": "sx-ew",
+    "term": "SX-EW",
+    "category": "Siglas",
+    "plain": "SX-EW: Extracción por solventes y electroobtención.",
+    "detail": "Sigla frecuente del sector minero. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "tajo-abierto",
+    "term": "Tajo abierto",
+    "category": "Operativo",
+    "plain": "Véase mina a cielo abierto.",
+    "detail": "*.",
+    "related": [
+      "mina-a-cielo-abierto"
+    ]
+  },
+  {
+    "id": "talud",
+    "term": "Talud",
+    "category": "Geotécnico",
+    "plain": "Superficie inclinada natural o excavada. Su diseño considera resistencia del macizo, estructuras, agua, geometría, sismicidad y forma de falla.",
+    "detail": "Categoría de origen: Geotécnico. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "falla"
+    ]
+  },
+  {
+    "id": "tc-rc",
+    "term": "TC / RC",
+    "category": "Comercial",
+    "plain": "Treatment Charge / Refining Charge: cargos que cobra la fundición/refinería por procesar concentrado; se restan en el cálculo del NSR.",
+    "detail": "Se negocian en el mercado de concentrados y en contratos offtake. Varían con oferta/demanda de fundición.",
+    "related": [
+      "nsr",
+      "offtake",
+      "concentrado"
+    ]
+  },
+  {
+    "id": "tenor",
+    "term": "Tenor",
+    "category": "Geológico",
+    "plain": "Sinónimo frecuente de ley o concentración de un componente valioso.",
+    "detail": "Categoría de origen: Geológico-económico. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "testigo",
+    "term": "Testigo",
+    "category": "Exploración",
+    "plain": "Cilindro de roca recuperado mediante perforación diamantina. Se registra, fotografía, mide, corta, muestrea y conserva según protocolos.",
+    "detail": "Categoría de origen: Exploración. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "exploracion"
+    ]
+  },
+  {
+    "id": "titular-minero",
+    "term": "Titular minero",
+    "category": "Jurídico",
+    "plain": "Persona física o jurídica a cuyo nombre se encuentra registrado un derecho minero. Puede contratar un operador, pero conserva las responsabilidades que la ley no permita transferir.",
+    "detail": "Categoría de origen: Jurídico. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "tonelaje",
+    "term": "Tonelaje",
+    "category": "Económico",
+    "plain": "Masa estimada o medida de material. En recursos y reservas debe indicarse la base, densidad, humedad, redondeo y categoría de confianza.",
+    "detail": "Categoría de origen: Técnico-económico. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "tratado-minero-binacional",
+    "term": "Tratado minero binacional (Argentina–Chile)",
+    "category": "Jurídico",
+    "plain": "Acuerdo entre Argentina y Chile para facilitar proyectos mineros de frontera: logística, aduanas y protocolos de integración en la cordillera.",
+    "detail": "Su reactivación impacta proyectos como Vicuña y El Pachón, y genera debate sobre proveedores locales, ambiente y dominio provincial.",
+    "related": [
+      "dominio-originario",
+      "proveedor-minero",
+      "licencia-social",
+      "concentrado"
+    ]
+  },
+  {
+    "id": "trituracion",
+    "term": "Trituración",
+    "category": "Metalúrgico",
+    "plain": "Reducción inicial del tamaño de roca mediante equipos como chancadoras de mandíbula, giratorias o de cono.",
+    "detail": "Categoría de origen: Metalúrgico. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "ucs",
+    "term": "UCS",
+    "category": "Geotécnico",
+    "plain": "Uniaxial Compressive Strength: resistencia a la compresión simple de la roca, ensayada en laboratorio.",
+    "detail": "Parámetro básico de diseño geotécnico y de fragmentación. Se reporta en MPa.",
+    "related": [
+      "rqd",
+      "voladura",
+      "estabilidad-fisica"
+    ]
+  },
+  {
+    "id": "unidad-economica",
+    "term": "Unidad económica",
+    "category": "Jurídico",
+    "plain": "Extensión o configuración mínima capaz de sostener una explotación racional bajo determinados supuestos. Su significado preciso depende del régimen donde se utilice.",
+    "detail": "Categoría de origen: Económico-jurídico. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "explotacion"
+    ]
+  },
+  {
+    "id": "uso-exclusivo",
+    "term": "Uso exclusivo",
+    "category": "Jurídico",
+    "plain": "Derecho otorgado sobre ciertas sustancias o depósitos que, sin ese acto, podrían estar sujetos a aprovechamiento común, condicionado a designación de sitio, concesión y obligaciones legales.",
+    "detail": "Categoría de origen: Jurídico. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "usufructo-minero",
+    "term": "Usufructo minero",
+    "category": "Jurídico",
+    "plain": "Derecho de usar y aprovechar una mina ajena conservando su sustancia, bajo las reglas especiales del Código y las normas supletorias aplicables.",
+    "detail": "Categoría de origen: Jurídico. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "vacancia",
+    "term": "Vacancia",
+    "category": "Jurídico",
+    "plain": "Situación de una mina cuyo derecho ha quedado disponible por las causas y mediante el procedimiento legal correspondiente, pudiendo ser objeto de nueva adjudicación.",
+    "detail": "Categoría de origen: Jurídico. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "veta",
+    "term": "Veta",
+    "category": "Geológico",
+    "plain": "Cuerpo tabular de minerales que ocupa una fractura o zona estructural. También se denomina filón en terminología tradicional.",
+    "detail": "l.",
+    "related": []
+  },
+  {
+    "id": "vibraciones",
+    "term": "Vibraciones (voladura)",
+    "category": "Ambiental",
+    "plain": "Ondas sísmicas generadas por la voladura que pueden afectar estructuras cercanas; se limitan por normativa y monitoreo.",
+    "detail": "Se miden con sismógrafos (PPV). El diseño de retardos y cargas por retardo las reduce.",
+    "related": [
+      "voladura",
+      "ruido",
+      "monitoreo-ambiental"
+    ]
+  },
+  {
+    "id": "vida-util-de-la-mina",
+    "term": "Vida útil de la mina",
+    "category": "Económico",
+    "plain": "Período durante el cual se proyecta extraer y procesar reservas según el plan minero. Puede cambiar con nuevos recursos, precios, permisos, capacidad o diseño.",
+    "detail": "Categoría de origen: Económico-operativo. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "voladura",
+    "term": "Voladura",
+    "category": "Operativo",
+    "plain": "Fragmentación controlada de roca mediante explosivos y una secuencia de iniciación diseñada. Está sujeta a normas específicas de seguridad, almacenamiento y transporte.",
+    "detail": "Categoría de origen: Operativo. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "yacimiento",
+    "term": "Yacimiento",
+    "category": "Geológico",
+    "plain": "Concentración natural de sustancias minerales en la corteza terrestre. Puede ser conocido y caracterizado sin que todavía constituya una reserva o una mina legalmente concedida.",
+    "detail": "Categoría de origen: Geológico. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "epitermal",
+    "term": "Yacimiento epitermal",
+    "category": "Geológico",
+    "plain": "Depósito hidrotermal formado a relativamente baja temperatura y poca profundidad, típico de oro-plata en vetas o diseminaciones.",
+    "detail": "Muy relevante en Cordillera argentina (incl. San Juan). Se asocia a alteración hidrotermal y a estructuras regionales.",
+    "related": [
+      "alteracion-hidrotermal",
+      "veta"
+    ]
+  },
+  {
+    "id": "zona-de-exclusion",
+    "term": "Zona de exclusión",
+    "category": "Jurídico",
+    "plain": "Área en la que determinados trabajos están prohibidos o condicionados por razones legales, ambientales, de seguridad, infraestructura, patrimonio o protección de terceros.",
+    "detail": "Categoría de origen: Jurídico-ambiental. Fuente: Glosario amplio minero argentino.",
+    "related": []
+  },
+  {
+    "id": "zona-mineralizada",
+    "term": "Zona mineralizada",
+    "category": "Geológico",
+    "plain": "Volumen o franja en la que se reconoce mineralización, sin que la expresión determine por sí sola ley de corte, recurso, reserva o viabilidad.",
+    "detail": "Categoría de origen: Geológico. Fuente: Glosario amplio minero argentino.",
+    "related": [
+      "ley-de-corte",
+      "mineralizacion"
+    ]
+  }
+]

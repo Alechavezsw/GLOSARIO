@@ -1,0 +1,430 @@
+{
+  "sourceUrl": "https://mineria.sanjuan.gob.ar/?uid=CUMV-VIEW-NormasLegalesComponent",
+  "sourceLabel": "Ministerio de Minería — Normas Legales (San Juan)",
+  "updatedNote": "Listado referencial ampliado (nacional + San Juan). Consultá siempre el texto oficial vigente.",
+  "norms": [
+    {
+      "id": "codigo-mineria",
+      "title": "Código de Minería",
+      "scope": "Nacional",
+      "summary": "Marco de fondo de la actividad minera en Argentina: descubrimiento, cateo, concesión, mensura y obligaciones del titular.",
+      "topics": [
+        "cateo",
+        "concesión",
+        "mensura",
+        "canon",
+        "pertenencias"
+      ]
+    },
+    {
+      "id": "codigo-procedimientos",
+      "title": "Código Provincial de Procedimientos Mineros",
+      "scope": "Provincial",
+      "ref": "Ley 7199 / 719-M",
+      "summary": "Regula el trámite ante la Autoridad Minera de San Juan: presentaciones, plazos, catastro, escribanía y policía minera.",
+      "topics": [
+        "procedimiento",
+        "expediente",
+        "autoridad minera",
+        "plazos",
+        "catastro"
+      ]
+    },
+    {
+      "id": "ipeem",
+      "title": "IPEEM — Instituto Provincial de Exploraciones y Explotaciones Mineras",
+      "scope": "Provincial",
+      "summary": "Ley de creación del IPEEM, organismo que administra áreas y derechos mineros provinciales y celebra contratos de exploración/explotación.",
+      "topics": [
+        "IPEEM",
+        "contratos",
+        "áreas provinciales"
+      ]
+    },
+    {
+      "id": "decreto-1426-1996",
+      "title": "Decreto Provincial Nº 1426-1996",
+      "scope": "Provincial",
+      "summary": "Reglamentación de la Ley 24.585 de protección ambiental para la actividad minera.",
+      "topics": [
+        "ambiente",
+        "IIA",
+        "Ley 24.585"
+      ]
+    },
+    {
+      "id": "decreto-1815-2004",
+      "title": "Decreto Provincial Nº 1815-2004",
+      "scope": "Provincial",
+      "summary": "Evaluación de Informes de Impacto Ambiental para mega proyectos mineros.",
+      "topics": [
+        "IIA",
+        "mega proyectos",
+        "ambiente"
+      ]
+    },
+    {
+      "id": "decreto-1033-2006",
+      "title": "Decreto Provincial Nº 1033-2006",
+      "scope": "Provincial",
+      "summary": "Evaluación de Informes de Impacto Ambiental para mega proyectos mineros (marco complementario).",
+      "topics": [
+        "IIA",
+        "mega proyectos",
+        "ambiente"
+      ]
+    },
+    {
+      "id": "decreto-1679-2006",
+      "title": "Decreto Provincial Nº 1679-2006",
+      "scope": "Provincial",
+      "summary": "Evaluación de Informes de Impacto Ambiental para pequeños y medianos proyectos mineros.",
+      "topics": [
+        "IIA",
+        "PyME minera",
+        "ambiente"
+      ]
+    },
+    {
+      "id": "regalias",
+      "title": "Ley de Regalías Mineras",
+      "scope": "Provincial",
+      "summary": "Régimen de regalías sobre la producción minera en la provincia.",
+      "topics": [
+        "regalías",
+        "fiscal",
+        "producción"
+      ]
+    },
+    {
+      "id": "fondo-desarrollo",
+      "title": "Ley del Fondo Especial para el Desarrollo Minero",
+      "scope": "Provincial",
+      "summary": "Fondo provincial orientado al desarrollo del sector minero.",
+      "topics": [
+        "fondos",
+        "desarrollo"
+      ]
+    },
+    {
+      "id": "fondo-comunidades",
+      "title": "Ley del Fondo Minero para el Desarrollo de las Comunidades",
+      "scope": "Provincial",
+      "summary": "Destino de recursos mineros al desarrollo de comunidades locales.",
+      "topics": [
+        "fondos",
+        "comunidades",
+        "desarrollo local"
+      ]
+    },
+    {
+      "id": "ff-lama-pascua",
+      "title": "Fondo Fiduciario de Infraestructura Proyecto Minero Lama-Pascua",
+      "scope": "Provincial",
+      "summary": "Fideicomiso de infraestructura asociado al proyecto Lama-Pascua.",
+      "topics": [
+        "fondos fiduciarios",
+        "infraestructura",
+        "Lama-Pascua"
+      ]
+    },
+    {
+      "id": "ff-san-guillermo",
+      "title": "Fondo Fiduciario de Infraestructura Reserva de Biosfera San Guillermo",
+      "scope": "Provincial",
+      "summary": "Fideicomiso vinculado a infraestructura en el área de la Reserva de Biosfera San Guillermo.",
+      "topics": [
+        "fondos fiduciarios",
+        "área protegida",
+        "San Guillermo"
+      ]
+    },
+    {
+      "id": "ff-gualcamayo",
+      "title": "Fondo Fiduciario de Infraestructura Proyecto Minero Gualcamayo",
+      "scope": "Provincial",
+      "summary": "Fideicomiso de infraestructura del proyecto Gualcamayo.",
+      "topics": [
+        "fondos fiduciarios",
+        "Gualcamayo"
+      ]
+    },
+    {
+      "id": "ff-casposo",
+      "title": "Fondo Fiduciario de Infraestructura Proyecto Minero Casposo",
+      "scope": "Provincial",
+      "summary": "Fideicomiso de infraestructura del proyecto Casposo.",
+      "topics": [
+        "fondos fiduciarios",
+        "Casposo"
+      ]
+    },
+    {
+      "id": "ff-rajo-argenta",
+      "title": "Fondo Fiduciario de Infraestructura Rajo-Argenta",
+      "scope": "Provincial",
+      "summary": "Fideicomiso de infraestructura Rajo-Argenta.",
+      "topics": [
+        "fondos fiduciarios",
+        "Rajo-Argenta"
+      ]
+    },
+    {
+      "id": "ff-veladero",
+      "title": "Fondo Fiduciario de Infraestructura Fase 6 – Mina Veladero",
+      "scope": "Provincial",
+      "summary": "Fideicomiso de infraestructura asociado a la Fase 6 de Veladero.",
+      "topics": [
+        "fondos fiduciarios",
+        "Veladero"
+      ]
+    },
+    {
+      "id": "ley-24196-inversiones",
+      "title": "Ley 24.196 — Inversiones Mineras",
+      "scope": "Nacional",
+      "ref": "Ley 24.196",
+      "summary": "Régimen de promoción de la inversión minera: beneficios fiscales y estabilidad tributaria por plazos definidos para proyectos que se acogen al régimen.",
+      "topics": [
+        "inversiones",
+        "estabilidad fiscal",
+        "regalías",
+        "incentivos"
+      ]
+    },
+    {
+      "id": "ley-24224-reordenamiento",
+      "title": "Ley 24.224 — Reordenamiento Minero",
+      "scope": "Nacional",
+      "ref": "Ley 24.224",
+      "summary": "Actualiza aspectos del régimen minero nacional y articula políticas de ordenamiento del sector con las provincias.",
+      "topics": [
+        "código de minería",
+        "política minera",
+        "nación-provincias"
+      ]
+    },
+    {
+      "id": "ley-24498-actualizacion",
+      "title": "Ley 24.498 — Actualización minera",
+      "scope": "Nacional",
+      "ref": "Ley 24.498",
+      "summary": "Modificaciones al marco minero nacional vinculadas a modernización de procedimientos y al régimen de inversiones.",
+      "topics": [
+        "actualización",
+        "procedimiento",
+        "inversiones"
+      ]
+    },
+    {
+      "id": "ley-24585-ambiente-minero",
+      "title": "Ley 24.585 — Protección ambiental de la actividad minera",
+      "scope": "Nacional",
+      "ref": "Ley 24.585",
+      "summary": "Marco ambiental específico para minería: introduce obligaciones de evaluación de impacto y protección del ambiente en la actividad minera.",
+      "topics": [
+        "ambiente",
+        "IIA",
+        "protección ambiental",
+        "minería"
+      ]
+    },
+    {
+      "id": "ley-25675-lga",
+      "title": "Ley 25.675 — Ley General del Ambiente",
+      "scope": "Nacional",
+      "ref": "Ley 25.675",
+      "summary": "Presupuesto mínimo de protección ambiental: principios (prevención, precaución, sustentabilidad), participación y responsabilidad ambiental.",
+      "topics": [
+        "ambiente",
+        "presupuestos mínimos",
+        "participación",
+        "daño ambiental"
+      ]
+    },
+    {
+      "id": "ley-26639-glaciares",
+      "title": "Ley 26.639 — Régimen de presupuestos mínimos de glaciares",
+      "scope": "Nacional",
+      "ref": "Ley 26.639",
+      "summary": "Protege glaciares y ambiente periglacial; restringe actividades que puedan afectarlos, con impacto directo en proyectos de alta montaña.",
+      "topics": [
+        "glaciares",
+        "ambiente",
+        "cordillera",
+        "restricciones"
+      ]
+    },
+    {
+      "id": "ley-24051-residuos",
+      "title": "Ley 24.051 — Residuos peligrosos",
+      "scope": "Nacional",
+      "ref": "Ley 24.051",
+      "summary": "Regula generación, manipulación, transporte y disposición de residuos peligrosos; aplicable a ciertos insumos y desechos de la industria minera.",
+      "topics": [
+        "residuos peligrosos",
+        "ambiente",
+        "transporte"
+      ]
+    },
+    {
+      "id": "cn-art-124",
+      "title": "Constitución Nacional — Art. 124 (dominio originario)",
+      "scope": "Nacional",
+      "ref": "CN art. 124",
+      "summary": "Reconoce a las provincias el dominio originario de los recursos naturales de su territorio, base del régimen minero federal argentino.",
+      "topics": [
+        "dominio",
+        "provincias",
+        "recursos naturales",
+        "federalismo"
+      ]
+    },
+    {
+      "id": "decreto-nacional-ambiente-minero",
+      "title": "Reglamentación nacional de protección ambiental minera",
+      "scope": "Nacional",
+      "ref": "Dto. reglamentario Ley 24.585",
+      "summary": "Normas reglamentarias que detallan procedimientos e instrumentos de la Ley 24.585 a nivel nacional, complementadas por cada provincia.",
+      "topics": [
+        "IIA",
+        "reglamentación",
+        "ambiente"
+      ]
+    },
+    {
+      "id": "convenio-169-oit",
+      "title": "Convenio 169 OIT — Pueblos indígenas y tribales",
+      "scope": "Nacional",
+      "ref": "Ley 24.071",
+      "summary": "Estándar internacional de consulta y derechos de pueblos indígenas, aplicable cuando proyectos mineros afectan sus territorios o derechos.",
+      "topics": [
+        "consulta previa",
+        "pueblos indígenas",
+        "derechos humanos"
+      ]
+    },
+    {
+      "id": "rigi-nacional",
+      "title": "RIGI — Régimen de Incentivo para Grandes Inversiones",
+      "scope": "Nacional",
+      "ref": "Ley 27.742 (título RIGI) / normas complementarias",
+      "summary": "Régimen de incentivos para grandes proyectos de inversión (incluidos mineros que califiquen), con beneficios fiscales, aduaneros y cambiarios sujetos a requisitos.",
+      "topics": [
+        "RIGI",
+        "inversiones",
+        "grandes proyectos",
+        "incentivos"
+      ]
+    },
+    {
+      "id": "tratado-minero-arg-chile",
+      "title": "Tratado de integración y complementación minera Argentina–Chile",
+      "scope": "Nacional",
+      "ref": "Ley 26.182 / Tratado",
+      "summary": "Facilita proyectos binacionales en frontera (protocolos, facilitación fronteriza) como el marco asociado a emprendimientos tipo Pascua-Lama.",
+      "topics": [
+        "binacional",
+        "frontera",
+        "Pascua-Lama",
+        "integración"
+      ]
+    },
+    {
+      "id": "sj-policia-minera",
+      "title": "Policía minera — facultades de fiscalización (San Juan)",
+      "scope": "Provincial",
+      "ref": "Código de Procedimientos / normas SJ",
+      "summary": "Facultades de inspección, control de seguridad y cumplimiento de obligaciones de titulares ante la Autoridad Minera de San Juan.",
+      "topics": [
+        "policía minera",
+        "fiscalización",
+        "seguridad",
+        "autoridad minera"
+      ]
+    },
+    {
+      "id": "sj-catastro-minero",
+      "title": "Catastro minero provincial (San Juan)",
+      "scope": "Provincial",
+      "ref": "Normativa de catastro / procedimientos",
+      "summary": "Registro gráfico y jurídico de pedimentos, cateos, minas y canteras; base del visualizador y del mapa de proyectos metalíferos.",
+      "topics": [
+        "catastro",
+        "mensura",
+        "expediente",
+        "mapa"
+      ]
+    },
+    {
+      "id": "sj-canteras",
+      "title": "Régimen de canteras — San Juan",
+      "scope": "Provincial",
+      "summary": "Normas provinciales aplicables a sustancias de tercera categoría / canteras: permisos, obligaciones y control distinto al de minas metalíferas.",
+      "topics": [
+        "canteras",
+        "áridos",
+        "tercera categoría"
+      ]
+    },
+    {
+      "id": "sj-agua-minera",
+      "title": "Uso de agua en actividad minera — San Juan",
+      "scope": "Provincial",
+      "summary": "Permisos y controles de aprovechamiento hídrico para procesos mineros, articulados con la autoridad de agua y la evaluación ambiental.",
+      "topics": [
+        "agua",
+        "permisos",
+        "efluentes",
+        "ambiente"
+      ]
+    },
+    {
+      "id": "sj-areas-protegidas",
+      "title": "Áreas protegidas y minería — San Juan",
+      "scope": "Provincial",
+      "summary": "Restricciones y condicionamientos por reservas (p. ej. San Guillermo) y otras figuras de protección que limitan o condicionan la actividad minera.",
+      "topics": [
+        "áreas protegidas",
+        "San Guillermo",
+        "ambiente",
+        "restricciones"
+      ]
+    },
+    {
+      "id": "sj-seguridad-higiene",
+      "title": "Seguridad e higiene minera — San Juan",
+      "scope": "Provincial",
+      "summary": "Obligaciones de seguridad laboral e higiene en labores mineras, fiscalizadas junto a policía minera y organismos de trabajo.",
+      "topics": [
+        "seguridad",
+        "higiene",
+        "laboral",
+        "fiscalización"
+      ]
+    },
+    {
+      "id": "sj-cierre-minas",
+      "title": "Cierre de minas y garantías — San Juan",
+      "scope": "Provincial",
+      "summary": "Exigencias provinciales de plan de cierre, remediación y garantías financieras asociadas a la aprobación ambiental y a la operación.",
+      "topics": [
+        "cierre",
+        "garantías",
+        "remediación",
+        "IIA"
+      ]
+    },
+    {
+      "id": "acuerdo-federal-minero-norma",
+      "title": "Acuerdo Federal Minero",
+      "scope": "Nacional",
+      "summary": "Instrumento de coordinación Nación–provincias sobre política minera, información y lineamientos comunes, respetando el dominio provincial.",
+      "topics": [
+        "federalismo",
+        "política minera",
+        "coordinación"
+      ]
+    }
+  ]
+}

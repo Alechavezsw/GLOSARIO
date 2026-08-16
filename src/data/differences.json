@@ -1,0 +1,42 @@
+[
+  {
+    "pair": "Yacimiento / mina",
+    "difference": "El yacimiento es una concentración natural; la mina es también un objeto jurídico constituido conforme al régimen minero."
+  },
+  {
+    "pair": "Recurso / reserva",
+    "difference": "El recurso tiene perspectivas razonables de extracción eventual; la reserva es la parte económicamente explotable luego de aplicar factores modificadores."
+  },
+  {
+    "pair": "Cateo / concesión",
+    "difference": "El cateo autoriza exploración exclusiva; la concesión permite explotar la mina."
+  },
+  {
+    "pair": "Canon / regalía / impuesto",
+    "difference": "El canon integra el amparo; la regalía se vincula con producción o extracción; el impuesto nace de un hecho imponible tributario."
+  },
+  {
+    "pair": "IIA / DIA",
+    "difference": "El IIA es el estudio presentado por el proponente; la DIA es el acto de la autoridad que lo evalúa y decide."
+  },
+  {
+    "pair": "Ley / recuperación / contenido",
+    "difference": "La ley expresa concentración; el contenido combina ley y tonelaje; la recuperación indica cuánto llega al producto útil."
+  },
+  {
+    "pair": "Mineralización / recurso / reserva",
+    "difference": "Son niveles crecientes de caracterización y evaluación; una anomalía o mineralización no permite anunciar automáticamente un recurso o reserva."
+  },
+  {
+    "pair": "Titular / operador / proveedor",
+    "difference": "El titular posee el derecho; el operador ejecuta la actividad; el proveedor suministra bienes o servicios."
+  },
+  {
+    "pair": "Cierre / poscierre",
+    "difference": "El cierre ejecuta medidas físicas y sociales; el poscierre mantiene controles y monitoreo posteriores."
+  },
+  {
+    "pair": "Propiedad superficial / propiedad minera",
+    "difference": "Son dominios jurídicamente distintos en el sistema argentino."
+  }
+]
