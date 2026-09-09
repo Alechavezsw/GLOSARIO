@@ -93,7 +93,7 @@ export function HomePage() {
         <AppNav />
         <main className="mx-auto flex w-full max-w-5xl flex-1 flex-col px-4 py-12 sm:px-6 md:px-10 md:py-16">
           <div className="animate-rise mt-4">
-            <BrandLogo size="lg" to={null} priority />
+            <BrandLogo size="lg" to="https://aceroyroca.com/" priority />
           </div>
           <h1 className="animate-rise-delay mt-6 font-display text-5xl tracking-[0.08em] sm:text-6xl md:text-7xl">
             GLOSARIO DE MINERÍA
@@ -145,6 +145,14 @@ export function HomePage() {
             >
               Glosario
             </Link>
+            <a
+              href="https://aceroyroca.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex min-h-11 items-center justify-center border border-steel/40 px-6 text-sm hover:border-ochre hover:text-ochre"
+            >
+              Acero y Roca
+            </a>
             <Link
               to="/leyes"
               className="inline-flex min-h-11 items-center justify-center border border-steel/40 px-6 text-sm hover:border-ochre hover:text-ochre"

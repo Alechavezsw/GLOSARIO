@@ -37,7 +37,7 @@ export function AppNav() {
   return (
     <header className="relative z-20 flex items-center justify-between gap-3 border-b border-steel/20 px-4 py-4 sm:px-6 md:px-10">
       <div className="flex min-w-0 items-center gap-3">
-        <BrandLogo size="sm" to="/" />
+        <BrandLogo size="sm" to="https://aceroyroca.com/" />
         <span className="hidden truncate font-display text-lg tracking-[0.12em] text-bone sm:inline">
           GLOSARIO DE MINERÍA
         </span>

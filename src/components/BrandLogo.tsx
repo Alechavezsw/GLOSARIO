@@ -34,6 +34,20 @@ export function BrandLogo({
 
   if (to === null) return img
 
+  if (/^https?:\/\//.test(to)) {
+    return (
+      <a
+        href={to}
+        className="inline-flex items-center"
+        aria-label="Acero y Roca"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        {img}
+      </a>
+    )
+  }
+
   return (
     <Link to={to} className="inline-flex items-center" aria-label="Inicio">
       {img}
